@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+http://www.literaturatlas.eu/
+http://www.literaturatlas.eu/forschungsmaterial/glossary/
+http://www.literaturatlas.eu/en/forschungsmaterial/glossary/
+/feed/
+http://www.literaturatlas.eu/?lang=de
+http://www.literaturatlas.eu/project/
+http://www.literaturatlas.eu/project/project-frame/
+http://www.literaturatlas.eu/project/project-frame/motivation/
+http://www.literaturatlas.eu/project/project-frame/project-outline/
+http://www.literaturatlas.eu/project/project-frame/interdisciplinary-work/
+http://www.literaturatlas.eu/project/project-frame/kritik/
+http://www.literaturatlas.eu/project/project-structure/
+http://www.literaturatlas.eu/project/project-structure/model-region/
+http://www.literaturatlas.eu/project/project-structure/text-selection/
+http://www.literaturatlas.eu/project/project-structure/data-model/
+http://www.literaturatlas.eu/project/project-structure/data-acquisition/
+http://www.literaturatlas.eu/project/project-structure/single-object-maps/
+http://www.literaturatlas.eu/project/project-structure/statistical-surfaces/
+http://www.literaturatlas.eu/project/project-structure/map-comment/
+http://www.literaturatlas.eu/currentresearch/
+http://www.literaturatlas.eu/currentresearch/readings/
+http://www.literaturatlas.eu/currentresearch/visualisation/
+http://www.literaturatlas.eu/publications/
+http://www.literaturatlas.eu/forschungsmaterial/
+http://www.literaturatlas.eu/forschungsmaterial/research-history/
+http://www.literaturatlas.eu/forschungsmaterial/bibliography/
+http://www.literaturatlas.eu/forschungsmaterial/glossary/
+http://www.literaturatlas.eu/forschungsmaterial/link-to-other-projects/
+http://www.literaturatlas.eu/research-team/
+http://www.literaturatlas.eu/press/
+http://www.literaturatlas.eu/guestbook/
+http://www.literaturatlas.eu/imprint/
+http://www.literaturatlas.eu/project/project-structure/data-acquisition/
+http://www.literaturatlas.eu/forschungsmaterial/glossary/#Schauplatz
+http://www.literaturatlas.eu/forschungsmaterial/glossary/#Projiziert
+http://www.literaturatlas.eu/forschungsmaterial/bibliography/
+http://www.literaturatlas.eu/forschungsmaterial/glossary/#Schauplatz
+http://www.literaturatlas.eu/forschungsmaterial/glossary/#Projiziert
+
+http://www.literaturatlas.eu/forschungsmaterial/bibliography/
+#Georaum
+
+#Handlungsraum
+#Handlungszone
+#Schauplatz
+#Georaum
+#Fiktion
+
+http://www.literaturatlas.eu/forschungsmaterial/glossary/#Raum, fiktionalisierter
+http://www.literaturatlas.eu/forschungsmaterial/glossary/#Erstraum
+http://www.literaturatlas.eu/forschungsmaterial/glossary/#Georaum
+
+#Figurenraum
+#Handlungszone
+#Schauplatz
+#Marker
+#Handlungsraum
+
+http://www.literaturatlas.eu/forschungsmaterial/bibliography/
+#Geopoetik
+#Literaturgeographie
+
+http://www.literaturatlas.eu/forschungsmaterial/bibliography/
+http://www.literaturatlas.eu/forschungsmaterial/bibliography/
+#Geokritik
+#Literaturgeographie
+
+#Erstraum
+
+#Horizont
+#Figurenraum
+#Handlungszone
+#Schauplatz
+
+#Handlungsraum
+#Schauplatz
+
+#Textraum
+http://www.literaturatlas.eu/forschungsmaterial/bibliography/
+#Zweitraum
+#Georaum
+http://www.literaturatlas.eu/forschungsmaterial/glossary/#Schauplatz
+http://www.literaturatlas.eu/forschungsmaterial/glossary/#Projiziert
+#Schauplatz
+http://www.literaturatlas.eu/forschungsmaterial/glossary/#Schauplatz
+#Georaum
+http://www.literaturatlas.eu/forschungsmaterial/bibliography/
+
+#Literaturkartographie
+
+#Literaturgeographie
+
+http://www.literaturatlas.eu/forschungsmaterial/glossary/#Projiziert
+#Textraum
+#Hyperraum
+#Zweitraum
+http://www.literaturatlas.eu/project/project-structure/model-region/
+
+#Horizont
+http://www.literaturatlas.eu/forschungsmaterial/glossary/#Schauplatz
+http://www.literaturatlas.eu/forschungsmaterial/glossary/#Projiziert
+http://www.literaturatlas.eu/forschungsmaterial/glossary/#Schauplatz
+http://www.literaturatlas.eu/forschungsmaterial/glossary/#Projiziert
+http://www.literaturatlas.eu/forschungsmaterial/glossary/raum,literarisierter
+#Georaum
+#Handlungsraum
+#Georaum
+
+#Georaum
+#Handlungsraum
+
+
+#Handlungsraum
+#Handlungszone
+http://www.literaturatlas.eu/forschungsmaterial/glossary/#Schauplatz
+http://www.literaturatlas.eu/forschungsmaterial/glossary/#Projiziert
+http://www.literaturatlas.eu/forschungsmaterial/glossary/#Schauplatz
+http://www.literaturatlas.eu/forschungsmaterial/glossary/#Projiziert
+
+http://www.literaturatlas.eu/forschungsmaterial/glossary/#Handlungsraum
+http://www.literaturatlas.eu/forschungsmaterial/glossary/#Schauplatz
+http://www.literaturatlas.eu/forschungsmaterial/glossary/#Projiziert
+http://www.literaturatlas.eu/forschungsmaterial/glossary/#Schauplatz
+http://www.literaturatlas.eu/forschungsmaterial/glossary/#Projiziert
+http://www.literaturatlas.eu/forschungsmaterial/glossary/#Handlungszone
+http://www.literaturatlas.eu/forschungsmaterial/glossary/#Schauplatz
+http://www.literaturatlas.eu/forschungsmaterial/glossary/#Projiziert
+#Georaum
+http://www.literaturatlas.eu/forschungsmaterial/glossary/#Synthetisiert
+http://www.literaturatlas.eu/forschungsmaterial/glossary/#Schauplatz
+http://www.literaturatlas.eu/forschungsmaterial/glossary/#Projiziert
+
+http://www.literaturatlas.eu/project/project-structure/data-acquisition/
+#IReferentialisierung
+
+#Erstraum
+http://www.literaturatlas.eu/forschungsmaterial/bibliography/
+http://www.literaturatlas.eu/feed/rss/
+http://www.literaturatlas.eu/wp-login.php
+http://www.ethz.ch/
+http://www.karto.ethz.ch/
+http://www.literaturatlas.eu
+
+
+
+
+HIER EIGENTLICHE DATEN
+
+
+
+:»kleine abc der literaturgeographie und literaturkartographie« grün a skos:Concept ;
+skos:prefLabel "»kleine abc der literaturgeographie und literaturkartographie« grün"@de ;
+skos:note "Das folgende »Kleine ABC der Literaturgeographie und Literaturkartographie« enthält theoretische Begriffe und Definitionen.  GRÜN gekennzeichnet sind alle jene Kategorien, Begriffe und Attribute, die wir selber geprägt haben bzw. die Bestandteil des Dateneingabeformulars im Projekt »Ein literarischer Atlas Europas« sind."
+
+
+
+:allegorisch-symbolisch konnotiert: a skos:Concept ;
+skos:prefLabel "allegorisch-symbolisch konnotiert:"@de ;
+skos:note "ALLEGORISCH-SYMBOLISCH KONNOTIERT: Trifft auf Schauplätze und projizierte Räume zu. Eingetragen wird dieses Attribut nur, wenn explizite, textimmanente Hinweise auf eine solche Bedeutungsschicht zu finden sind. Auf eigene Interpretationen wird weitgehend verzichtet."
+
+
+
+: a skos:Concept ;
+skos:prefLabel ""@de ;
+skos:note " "
+
+
+
+:drittraum:  a skos:Concept ;
+skos:prefLabel "drittraum: "@de ;
+skos:note "DRITTRAUM: ursprünglich “Thirdspace”, vom Humangeographen Edward W. Soja geprägter Begriff (siehe Bibliographie: Soja 1996). Soja versteht unter Thirdspace eine Vermengung von „real-and-imagined“, es handelt sich um hybride Räume, die zugleich fiktional und real sind. Eines von Sojas Beispielen, das er eingehend analysiert, ist Los Angeles."
+
+
+
+: a skos:Concept ;
+skos:prefLabel ""@de ;
+skos:note " "
+
+
+
+:einfach-kulissenhaft   a skos:Concept ;
+skos:prefLabel "einfach-kulissenhaft  "@de ;
+skos:note "EINFACH-KULISSENHAFT: Die Kulisse (der Schauplatz, der projizierte Raum) wäre theoretisch austauschbar, der Raum ist buchstäblicher Hintergrund und nicht tragender Bestandteil der erzählten Welt."
+
+
+
+:erstraum: georaum a skos:Concept ;
+skos:prefLabel "erstraum: georaum"@de ;
+skos:note "ERSTRAUM: physisch-empirischer Raum mit messbaren Relationen zwischen einzelnen Punkten (nach Soja 1996, siehe Bibliographie); entspricht dem Georaum."
+
+
+
+: a skos:Concept ;
+skos:prefLabel ""@de ;
+skos:note " "
+
+
+
+: figurenraum: handlungsraums handlungszonen schauplätze a skos:Concept ;
+skos:prefLabel " figurenraum: handlungsraums handlungszonen schauplätze"@de ;
+skos:note " FIGURENRAUM: Teilbereich des Handlungsraums (Oberbegriff); strukturiert in Handlungszonen und Schauplätze."
+
+
+
+:georaum raum der fiktion a skos:Concept ;
+skos:prefLabel "georaum raum der fiktion"@de ;
+skos:note "FINGIERT  (betrifft: Schauplätze, projizierte Räume): Handlungsraum, der keinerlei Referenzen auf den Georaum aufweist; entspricht einem Raum der Fiktion."
+
+
+
+:/ a skos:Concept ;
+skos:prefLabel "/"@de ;
+skos:note "FIKTIONALER RAUM: Der in einem fiktionalen Text (durch blosse Wörter) geschaffene, konstruierte Raum. Der fiktionale Raum ist eine vom Text her gedachte Kategorie. Im Unterschied dazu ist der fiktionalisierte Raum aus der Perspektive des Erstraums/Georaums definiert: Was macht die Literatur mit einem gegebenen, georäumlichen Ausschnitt?"
+
+
+
+: a skos:Concept ;
+skos:prefLabel ""@de ;
+skos:note " "
+
+
+
+:geographischer horizont figurenraum handlungszonen schauplätzen topographischen marker handlungsraums a skos:Concept ;
+skos:prefLabel "geographischer horizont figurenraum handlungszonen schauplätzen topographischen marker handlungsraums"@de ;
+skos:note "GEOGRAPHISCHER HORIZONT umfasst den Figurenraum samt Handlungszonen und Schauplätzen sowie die Kategorie der topographischen Marker; er ist eine Komponente des Handlungsraums (Oberbegriff)."
+
+
+
+:geokritik geopoetik literaturgeographie a skos:Concept ;
+skos:prefLabel "geokritik geopoetik literaturgeographie"@de ;
+skos:note "GEOKRITIK ist ein Begriff, der durch den französischen Komparatisten Bertrand Westphal eingeführt worden ist – erstmals 2000, dann grundlegend in seinem Buch La Géocritique. Réel, Fiction, Espace (2007), siehe Bibliographie. Westphal definiert seine Geokritik als Methode, die das Verhältnis von Literatur und geographischem Raum untersucht. Die ausdrückliche Bezugnahme auf den geographischen Raum ist dabei zentral. Geokritische Studien im Sinne Westphals bedeuten, dass eine einzelne Stadt, eine Region untersucht wird, unter Berücksichtigung einer möglichst grossen Zahl literarischer Zeugnisse. Geokritik, Geopoetik und Literaturgeographie weisen zahlreiche inhaltliche Parallen auf."
+
+
+
+:geopoetik geokritik literaturgeographie a skos:Concept ;
+skos:prefLabel "geopoetik geokritik literaturgeographie"@de ;
+skos:note "GEOPOETIK wurde als Ausdruck von Kenneth White geprägt (siehe Bibliographie: White 2007) und zunächst auf die dichterische Produktion bezogen. Jüngst hat der Begriff eine Umbesetzung erfahren, die ihn auch für die literaturwissenschaftliche Forschung tauglich macht. Es geht um die Analyse von in der Literatur hergestellten Landschaften und Territorien, um Raumpoetiken, die “semantisch aufgeladen und an bestimmte Orte, Landschaften und Territorien gekoppelt werden.“ (siehe Bibliographie: Marzalek/Sasse 2010). Geopoetik, Geokritik und Literaturgeographie weisen zahlreiche inhaltliche Parallelen auf."
+
+
+
+:georaum erstraum a skos:Concept ;
+skos:prefLabel "georaum erstraum"@de ;
+skos:note "GEORAUM geographischer Fachbegriff: physischer Raum, geographisch und morphologisch beschreibbar; entspricht dem Erstraum."
+
+
+
+: a skos:Concept ;
+skos:prefLabel ""@de ;
+skos:note " "
+
+
+
+:handlungsraum:  geographischen horizont figurenraum handlungszonen schauplätze a skos:Concept ;
+skos:prefLabel "handlungsraum:  geographischen horizont figurenraum handlungszonen schauplätze"@de ;
+skos:note "HANDLUNGSRAUM:  erzähltheoretischer Oberbegriff für geographischen Horizont, Figurenraum, Handlungszonen und Schauplätze."
+
+
+
+:handlungszone:  handlungsraums schauplätze a skos:Concept ;
+skos:prefLabel "handlungszone:  handlungsraums schauplätze"@de ;
+skos:note "HANDLUNGSZONE:  Gebiet innerhalb des Handlungsraums, kann mehrere Schauplätze umfassen (das Zusammenfassen von Schauplätzen zu einer Handlungszone ist eine Interpretationsleistung, dieses räumliche Strukturelement ist im Text nicht vorgegeben)."
+
+
+
+:hyperraum:  texträumen zweitraums a skos:Concept ;
+skos:prefLabel "hyperraum:  texträumen zweitraums"@de ;
+skos:note "HYPERRAUM:  von mehreren Texträumen konstituierter Raum (nach Ungern-Sternberg 2003, siehe Bibliographie); spezifische (weil rein literarische) Ausformung des Zweitraums."
+
+
+
+: a skos:Concept ;
+skos:prefLabel ""@de ;
+skos:note " "
+
+
+
+:importiert georaum a skos:Concept ;
+skos:prefLabel "importiert georaum"@de ;
+skos:note "IMPORTIERT (Schauplätze, projizierte Räume): Der Georaum wird topographisch und toponymisch korrekt wiedergegeben."
+
+
+
+: a skos:Concept ;
+skos:prefLabel ""@de ;
+skos:note " "
+
+
+
+:lage projizierte räume a skos:Concept ;
+skos:prefLabel "lage projizierte räume"@de ;
+skos:note "LAGE (Schauplätze, projizierte Räume): Verzeichnet wird der Genauigkeitsgrad in drei Stufen:"
+
+
+
+:präzise: a skos:Concept ;
+skos:prefLabel "präzise:"@de ;
+skos:note "PRÄZISE: Ein Dorf, eine Stadt, eine Region, ein Land lässt sich genau auf der Karte finden und eintragen."
+
+
+
+:zonal: schauplatz a skos:Concept ;
+skos:prefLabel "zonal: schauplatz"@de ;
+skos:note "ZONAL: Durch Ausschlussverfahren lässt sich eine bestimmte Zone ermitteln, in der der Schauplatz sich aller Wahrscheinlichkeit nach befindet."
+
+
+
+:unbestimmt: schauplatzes a skos:Concept ;
+skos:prefLabel "unbestimmt: schauplatzes"@de ;
+skos:note "UNBESTIMMT: Es gibt keinerlei Aufschluss über die Lage des Schauplatzes, er liegt »irgendwo«. In diesem Fall ist folgerichtig auf eine Eingabe im Koordinatenfeld zu verzichten (Bsp. das »Land of Oz« aus dem Märchenbuch The Wonderful wizard of Oz (1900), das als vollkommen autonome Geographie existiert, ohne jegliche Anbindung an eine reale Welt)."
+
+
+
+:landschaft, assoziative:  georaum a skos:Concept ;
+skos:prefLabel "landschaft, assoziative:  georaum"@de ;
+skos:note "LANDSCHAFT, ASSOZIATIVE:  Ausschnitt aus dem Georaum; stellt sich eher in geistigen Bezügen aus Religion, Kunst oder Literatur als in materiellen Bestandteilen dar (gemäss UNESCO-Definition, siehe Bibliographie: UNESCO 2009: 285)."
+
+
+
+:leserraum:  a skos:Concept ;
+skos:prefLabel "leserraum: "@de ;
+skos:note "LESERRAUM:  rezeptionsästhetische Kategorie: enthält die geographische und topographische Enzyklopädie des Lesers."
+
+
+
+:literaturgeographie: literaturkartographie a skos:Concept ;
+skos:prefLabel "literaturgeographie: literaturkartographie"@de ;
+skos:note "LITERATURGEOGRAPHIE: Oberbegriff, der den Untersuchungsgegenstand bezeichnet: Analysiert wird die spezifische Geographie der Literatur als Teilaspekt der räumlichen Dimension von Literatur überhaupt. Die zentralen Fragen lauten: Wo spielt die Literatur und weshalb spielt sie (gerade) dort? Literaturgeographische Untersuchungen können mit oder ohne Karten ausgeführt werden. Der methodische Ansatz über Karten (Literaturkartographie) ist eine von vielen Möglichkeiten."
+
+
+
+:literaturkartographie:  literaturgeographischen a skos:Concept ;
+skos:prefLabel "literaturkartographie:  literaturgeographischen"@de ;
+skos:note "LITERATURKARTOGRAPHIE:  Bezeichnung einer Methode – im Rahmen einer literaturgeographischen Untersuchung werden Karten erstellt, die im Idealfall einen Mehrwert an Erkenntnis generieren."
+
+
+
+: a skos:Concept ;
+skos:prefLabel ""@de ;
+skos:note " "
+
+
+
+:marker, topographischer: schauplatzes projizierten raums a skos:Concept ;
+skos:prefLabel "marker, topographischer: schauplatzes projizierten raums"@de ;
+skos:note "MARKER, TOPOGRAPHISCHER: bloss erwähnter Raum, Ort; ohne dortigen Aufenthalt der handelnden Figuren, d. h. nicht im Status eines Schauplatzes oder eines projizierten Raums. Es wird unterschieden zwischen Markern innerhalb und ausserhalb der Modellregion."
+
+
+
+:metaraum, literarischer: texträumen hyperraum zweitraums a skos:Concept ;
+skos:prefLabel "metaraum, literarischer: texträumen hyperraum zweitraums"@de ;
+skos:note "METARAUM, LITERARISCHER: aus mehreren Texträumen bestehender Raum; entspricht dem Hyperraum; ist eine spezifische (weil rein literarische) Ausformung des Zweitraums."
+
+
+
+:mythisch konnotiert a skos:Concept ;
+skos:prefLabel "mythisch konnotiert"@de ;
+skos:note "MYTHISCH KONNOTIERT (Schauplätze, projizierte Räume): Verzeichnet werden explizite mythische Anspielungen. Beispiele: Aus den drei Modellregionen des “Literarischen Atlas Europas” – das Rütli, der Vishehrad, die Insel Rungholt."
+
+
+
+:projizierter raum/weg: geographischen horizonts a skos:Concept ;
+skos:prefLabel "projizierter raum/weg: geographischen horizonts"@de ;
+skos:note "PROJIZIERTER RAUM/WEG: Raum auf der Ebene des geographischen Horizonts; wird von den Figuren nicht &gt;betreten&lt; im Laufe der Handlung (Unterkategorien: Traumorte, Sehnsuchtsorte, erinnerte Orte, evozierte Orte)."
+
+
+
+:protagonistisch-physisch a skos:Concept ;
+skos:prefLabel "protagonistisch-physisch"@de ;
+skos:note "PROTAGONISTISCH-PHYSISCH (Schauplätze, projizierte Räume): Der Raum greift selber buchstäblich in die Handlung ein, in der Regel in Form von Naturereignissen und -katastrophen, wie Überschwemmungen, Erdrutsche, Lawinen etc."
+
+
+
+:protagonistisch-poetologisch a skos:Concept ;
+skos:prefLabel "protagonistisch-poetologisch"@de ;
+skos:note "PROTAGONISTISCH-POETOLOGISCH (Schauplätze, projizierte Räume): Der Schauplatz hat Einfluss auf die Psyche der Figuren, etwa indem er das Gefühl des Gefangenseins, des Bedrohtseins hervorruft (typisch für einen Stadtraum). Auch positive Gefühle sind denkbar (Gefühle der Freiheit o.ä.)."
+
+
+
+:raum, fiktionalisierter  : georaum  handlungsraum a skos:Concept ;
+skos:prefLabel "raum, fiktionalisierter  : georaum  handlungsraum"@de ;
+skos:note "RAUM, FIKTIONALISIERTER (Unterbegriff von Raum, literarisierter): Ausschnitt aus dem Georaum, wird in einem  fiktionalen Text zum  Handlungsraum modelliert."
+
+
+
+:raum, literarisierter: georaum a skos:Concept ;
+skos:prefLabel "raum, literarisierter: georaum"@de ;
+skos:note "RAUM, LITERARISIERTER: Ausschnitt aus dem Georaum, zum Gegenstand der Literatur geworden (in sämtlichen Genres)."
+
+
+
+:raum der fiktion: georaum fingierten handlungsraum a skos:Concept ;
+skos:prefLabel "raum der fiktion: georaum fingierten handlungsraum"@de ;
+skos:note "RAUM DER FIKTION: Handlungsraum ohne jegliche Referenzen auf den Georaum hin; entspricht einem fingierten Handlungsraum."
+
+
+
+:referentialisierung, indirekte: a skos:Concept ;
+skos:prefLabel "referentialisierung, indirekte:"@de ;
+skos:note "REFERENTIALISIERUNG, INDIREKTE: eine geographische Einheit (Stadt, Dorf, Region, Fluss, See, Meer, Berg, Tal etc.) wird nicht mit dem entsprechenden Toponym benannt, sondern be- und umschrieben. Über typische Einzelelemente (z. B. Seine, Eiffelturm = Paris) lässt sich die grössere Einheit bestimmen."
+
+
+
+:schauplatz: handlungsraums handlungszone a skos:Concept ;
+skos:prefLabel "schauplatz: handlungsraums handlungszone"@de ;
+skos:note "SCHAUPLATZ: kleinste Einheit des  Handlungsraums. Mehrere Schauplätze können – auf Grundlage einer Interpretation – zu einer Handlungszone zusammengefasst werden."
+
+
+
+:synthetisiert a skos:Concept ;
+skos:prefLabel "synthetisiert"@de ;
+skos:note "SYNTHETISIERT (Schauplätze, projizierte Räume): In der Fiktion werden zwei bestehende Räume überblendet, so dass ein neuer, dritter Raum entsteht. Beispiel: In Ernst Jüngers Roman »Auf den Marmorklippen« (1939) werden Bodenseeregion und Mittelmeerküste synthetisiert, in Julio Cortazars Erzählung “Das Feuer aller Feuer” (1966) sind es Buenos Aires und Paris, die ineinander geblendet werden."
+
+
+
+:thematisch-kulissenhaft ,  a skos:Concept ;
+skos:prefLabel "thematisch-kulissenhaft , "@de ;
+skos:note "THEMATISCH-KULISSENHAFT (Schauplätze, projizierte Räume): Der Raum wird plastisch geschildert, ist wesentliches Element der Handlung, u. a. spielen Komponenten wie Landschaftsschilderung, Architekturschilderung, Atmosphäre eine Rolle. Der Schauplatz verliert an Austauschbarkeit."
+
+
+
+:textraum a skos:Concept ;
+skos:prefLabel "textraum"@de ;
+skos:note "TEXTRAUM: medial vermittelter Raum, d.h. mit Hilfe sprachlicher Zeichen erzeugt; dies betrifft Handlungsräume, aber auch rein deskriptiv evozierte Räume, etwa in Gedichten."
+
+
+
+:toponymie:  projizierten räumen a skos:Concept ;
+skos:prefLabel "toponymie:  projizierten räumen"@de ;
+skos:note "TOPONYMIE:  Die Beschriftung von Orten, Gewässern, Bergen etc. auf einer Landkarte. Unterschieden werden für die Beschriftung von Schauplätzen und projizierten Räumen im “Literarischen Atlas Europas” folgende Unterkategorien:"
+
+
+
+:aktuell-realreferent: a skos:Concept ;
+skos:prefLabel "aktuell-realreferent:"@de ;
+skos:note "AKTUELL-REALREFERENT: Das auf aktuellen Landkarten/Stadtplänen verzeichnete Toponym"
+
+
+
+:fremdsprachlich (realreferent): a skos:Concept ;
+skos:prefLabel "fremdsprachlich (realreferent):"@de ;
+skos:note "FREMDSPRACHLICH (REALREFERENT): Eine wie auch immer geartete Differenz zur heutigen Amtssprache (in mehrsprachigen Modellregionen besonders heikel, dennoch gilt bis auf weiteres die Regelung, dass deutsche Texte in Prag bzw. dänische Texte in Nordfriesland als »anderssprachlich« eingetragen werden)"
+
+
+
+:historisch (realreferent): a skos:Concept ;
+skos:prefLabel "historisch (realreferent):"@de ;
+skos:note "HISTORISCH (REALREFERENT): Ein früher geläufiges Toponym."
+
+
+
+:neu erfunden: a skos:Concept ;
+skos:prefLabel "neu erfunden:"@de ;
+skos:note "NEU ERFUNDEN: Benennung einer neu erfundenen Lokalität durch den Autor, Bsp. Das Städtchen Seldwyla bei Gottfried Keller."
+
+
+
+:umbenannt/verschleiert: a skos:Concept ;
+skos:prefLabel "umbenannt/verschleiert:"@de ;
+skos:note "UMBENANNT/VERSCHLEIERT: Eine existierende Lokalität wird umbenannt (Bsp. New York wird zu »Gotham City«) oder im Namenlosen belassen (z. B. mit »die Stadt« ist bei Theodor Storm zumeist Husum gemeint)."
+
+
+
+:umschrieben/namenlos: a skos:Concept ;
+skos:prefLabel "umschrieben/namenlos:"@de ;
+skos:note "UMSCHRIEBEN/NAMENLOS: Namenlos = die Stadt, das Dorf, das Schloss; umschrieben werden Schauplätze oft mit einem Genitiv: »das Haus der Geliebten«, »die Hütte meines Grossvaters« etc."
+
+
+
+:verschwunden: a skos:Concept ;
+skos:prefLabel "verschwunden:"@de ;
+skos:note "VERSCHWUNDEN: Nicht mehr existente Orte, etwa Häuser und Strassen im assanierten Prager Stadtteil Josefov oder die untergegangene Insel Rungholt in Nordfriesland."
+
+
+
+:zusammengefasst: schauplätze projizierte räume handlungszone a skos:Concept ;
+skos:prefLabel "zusammengefasst: schauplätze projizierte räume handlungszone"@de ;
+skos:note "ZUSAMMENGEFASST: Mehrere Schauplätze, projizierte Räume werden zu einer Handlungszone zusammengefasst und neu beschriftet (Akt der Interpretation)."
+
+
+
+:transformiert schauplätze projizierte räume georaum synthese a skos:Concept ;
+skos:prefLabel "transformiert schauplätze projizierte räume georaum synthese"@de ;
+skos:note "TRANSFORMIERT(Schauplätze, projizierte Räume): Abweichungen vom Georaum. Der Schauplatz wird transformiert – dazu gehören die literarischen Techniken von Re-Modellierung, Umbenennung, Neu-Lokalisierung, Synthese mehrerer Raumeinheiten."
+
+
+
+:verschoben schauplätze projizierte räume a skos:Concept ;
+skos:prefLabel "verschoben schauplätze projizierte räume"@de ;
+skos:note "VERSCHOBEN (Schauplätze, projizierte Räume): Ein existierender Ort wird in der Fiktion an einen neuen Standort, in einen neuen geographischen Kontext verschoben."
+
+
+
+: a skos:Concept ;
+skos:prefLabel ""@de ;
+skos:note " "
+
+
+
+:wege, routen, a skos:Concept ;
+skos:prefLabel "wege, routen,"@de ;
+skos:note "WEGE, ROUTEN, über die sich die handelnden Figuren durch den fiktionalen Raum bewegen."
+
+
+
+:wegpunkte a skos:Concept ;
+skos:prefLabel "wegpunkte"@de ;
+skos:note "WEGPUNKTE werden während der Dateneingabe erfasst, um den Verlauf eines Figurenweges schematisch oder präziser zu erfassen:"
+
+
+
+:schematisiert: a skos:Concept ;
+skos:prefLabel "schematisiert:"@de ;
+skos:note "SCHEMATISIERT: übernommen werden nur diejenigen Stationen, die im Text explizit erwähnt und benannt sind. Das kartographische Resultat ähnelt häufig einer stark schematisierten Flugroute."
+
+
+
+:plausibilisiert: interpretiert: indirekte referentialisierungen a skos:Concept ;
+skos:prefLabel "plausibilisiert: interpretiert: indirekte referentialisierungen"@de ;
+skos:note "PLAUSIBILISIERT: die schematische Route wird ergänzt um »Stützpunkte«, die den Wegverlauf plausibler gestalten. Eine Schiffsreise etwa kann sinnvoll auf dem Wasser (Fluss, See, Meer) dargestellt werden; im schematischen Modus mag sie manchmal über Land führen. INTERPRETIERT: hier werden indirekte Referentialisierungen von Wegstationen aufgelöst und in die Interpretation mit einbezogen."
+
+
+
+:zweitraum: erstraums ). a skos:Concept ;
+skos:prefLabel "zweitraum: erstraums )."@de ;
+skos:note "ZWEITRAUM: enthält ideelle, imaginative Repräsentationen des Erstraums, z. B. in Literatur und Bildender Kunst (nach Soja 1996, siehe Bibliographie)."
+
+
+
+: a skos:Concept ;
+skos:prefLabel ""@de ;
+skos:note " "
+
+
+
+: a skos:Concept ;
+skos:prefLabel ""@de ;
+skos:note "Copyright 2018 Ein Literarischer Atlas Europas · RSS Feed · Anmelden"
+
+
+
+: a skos:Concept ;
+skos:prefLabel ""@de ;
+skos:note "Forschungsprojekt ETH Zurich, Institut für Kartografie und Geoinformation"
+
+
+
+
