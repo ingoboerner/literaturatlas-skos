@@ -11,12 +11,21 @@
    dc:title "Glossar Literaturgeographie und Literaturkartographie"@de ;
    # dc:description ""@de ;
    dc:creator "Barbara Piatti" ;
+   dc:creator "literaturatlas.eu" ;
    dc:publisher "Austrian Centre for Digital Humanities – ACDH" ;
+   dc:contributor: "Ingo Boerner"
+   dc:language "German" ;
+   dc:subject "Literaturwissenschaft"@de , "Literaturgeographie"@de , "literary studies"@en , "literary geography"@en ;
+   dc:source <http://www.literaturatlas.eu/forschungsmaterial/glossary> ;
    rdfs:seeAlso <http://www.literaturatlas.eu/forschungsmaterial/glossary> ;
    rdfs:seeAlso <http://www.barbara-piatti.ch> .
    #cc:license ? .
    # Copyright 2018 Ein Literarischer Atlas Europas
-
+   # proposed minimal:
+   #dc:title - title of your vocabulary
+   # dc:description - short description that briefly describes the vocabulary
+   # dc:creator - all creators of vocabulary (new tag for each)
+   # dc:subject - related subject/topic
 
 # Some related links, extracted from HTML-Page
 
@@ -58,8 +67,10 @@
 # allegorisch-symbolisch konnotiert
 :allegorisch-symbolisch-konnotiert: a skos:Concept ;
   skos:prefLabel "allegorisch-symbolisch konnotiert"@de ;
-  skos:note "Trifft auf Schauplätze und projizierte Räume zu. Eingetragen wird dieses Attribut nur, wenn explizite, textimmanente Hinweise auf eine solche Bedeutungsschicht zu finden sind. Auf eigene Interpretationen wird weitgehend verzichtet." ;
-  skos:editorialNote "Needs better definition"@en .
+  skos:note "Trifft auf Schauplätze und projizierte Räume zu. Eingetragen wird dieses Attribut nur, wenn explizite, textimmanente Hinweise auf eine solche Bedeutungsschicht zu finden sind. Auf eigene Interpretationen wird weitgehend verzichtet."@de ;
+  skos:scopeNote "Schauplatz; projizierter Raum" ;
+  skos:creator "literaturatlas.eu" ;
+  skos:editorialNote "allgemeinere Definition notwendig"@de .
 
 # D
 
@@ -67,7 +78,9 @@
 :drittraum a skos:Concept ;
   skos:prefLabel "Drittraum"@de ;
   skos:prefLabel "Thirdspace"@en ;
-  skos:note "ursprünglich “Thirdspace”, vom Humangeographen Edward W. Soja geprägter Begriff (siehe Bibliographie: Soja 1996). Soja versteht unter Thirdspace eine Vermengung von „real-and-imagined“, es handelt sich um hybride Räume, die zugleich fiktional und real sind. Eines von Sojas Beispielen, das er eingehend analysiert, ist Los Angeles." .
+  skos:note "ursprünglich “Thirdspace”, vom Humangeographen Edward W. Soja geprägter Begriff (siehe Bibliographie: Soja 1996). Soja versteht unter Thirdspace eine Vermengung von „real-and-imagined“, es handelt sich um hybride Räume, die zugleich fiktional und real sind. Eines von Sojas Beispielen, das er eingehend analysiert, ist Los Angeles."@de ;
+  dc:creator "Edward W. Soja" ;
+  dc:source "Soja, Eduard W. (1996): Thirdspace, Journeys to Los Angeles and Other Real-and-Imagined Places. Oxford: Basil Blackwell." .
 
 
 # E
@@ -75,12 +88,15 @@
 # einfach-kulissenhaft
 :einfach-kulissenhaft a skos:Concept ;
   skos:prefLabel "einfach-kulissenhaft"@de ;
-  skos:note "Die Kulisse (der Schauplatz, der projizierte Raum) wäre theoretisch austauschbar, der Raum ist buchstäblicher Hintergrund und nicht tragender Bestandteil der erzählten Welt." .
+  skos:note "Die Kulisse (der Schauplatz, der projizierte Raum) wäre theoretisch austauschbar, der Raum ist buchstäblicher Hintergrund und nicht tragender Bestandteil der erzählten Welt."@de ;
+  skos:scopeNote "Schauplatz; projizierter Raum" ;
+  dc:creator "literaturatlas.eu" .
 
 # Erstraum
 :erstraum a skos:Concept ;
   skos:prefLabel "Erstraum"@de ;
-  skos:note "physisch-empirischer Raum mit messbaren Relationen zwischen einzelnen Punkten (nach Soja 1996, siehe Bibliographie); entspricht dem Georaum." ;
+  skos:note "physisch-empirischer Raum mit messbaren Relationen zwischen einzelnen Punkten (nach Soja 1996, siehe Bibliographie); entspricht dem Georaum."@de ;
+  dc:source "Soja, Eduard W. (1996): Thirdspace, Journeys to Los Angeles and Other Real-and-Imagined Places. Oxford: Basil Blackwell." ;
   skos:related :georaum ;
   rdfs:seeAlso litatlas:Erstraum .
 
@@ -90,23 +106,29 @@
 # Figurenraum
 :figurenraum a skos:Concept ;
   skos:prefLabel "Figurenraum"@de ;
-  skos:note "Teilbereich des Handlungsraums (Oberbegriff); strukturiert in Handlungszonen und Schauplätze." ;
+  skos:note "Teilbereich des Handlungsraums (Oberbegriff); strukturiert in Handlungszonen und Schauplätze."@de ;
   skos:broader :handlungsraum ;
-  skos:related :handlungszone , :schauplatz ;
+  skos:narrower :handlungszone , :schauplatz ;
+  skos:editorialNote "prüfen, ob nicht doch nur skos:related zu :handlungszone und :schauplatz" ;
   rdfs:seeAlso litatlas:Figurenraum .
-
-# Fiktionaler Raum
-:fiktionaler_raum a skos:Concept ;
-  skos:prefLabel "Fiktionaler Raum"@de ;
-  skos:note "Der in einem fiktionalen Text (durch blosse Wörter) geschaffene, konstruierte Raum. Der fiktionale Raum ist eine vom Text her gedachte Kategorie. Im Unterschied dazu ist der fiktionalisierte Raum aus der Perspektive des Erstraums/Georaums definiert: Was macht die Literatur mit einem gegebenen, georäumlichen Ausschnitt?" .
-
-
-#  rdfs:seeAlso litatlas:Fiktion
 
 # fingiert
 :fingiert a skos:Concept ;
   skos:prefLabel "fingiert"@de ;
-  skos:note "Fingiert (betrifft: Schauplätze, projizierte Räume): Handlungsraum, der keinerlei Referenzen auf den Georaum aufweist; entspricht einem Raum der Fiktion."@de .
+  skos:note "Fingiert (betrifft: Schauplätze, projizierte Räume): Handlungsraum, der keinerlei Referenzen auf den Georaum aufweist; entspricht einem Raum der Fiktion."@de ;
+  skos:scopeNote "Schauplatz; projizierter Raum" ;
+  skos:broader :handlungsraum ;
+  skos:related :raum_der_fiktion ;
+  dc:creator "literaturatlas.eu" .
+
+
+# Fiktionaler Raum
+:fiktionaler_raum a skos:Concept ;
+  skos:prefLabel "Fiktionaler Raum"@de ;
+  skos:note "Der in einem fiktionalen Text (durch blosse Wörter) geschaffene, konstruierte Raum. Der fiktionale Raum ist eine vom Text her gedachte Kategorie. Im Unterschied dazu ist der fiktionalisierte Raum aus der Perspektive des Erstraums/Georaums definiert: Was macht die Literatur mit einem gegebenen, georäumlichen Ausschnitt?"@de ;
+  dc:creator "literaturatlas.eu" ;
+  rdfs:seeAlso litatlas:Fiktion .
+
 
 
 # G
@@ -115,8 +137,9 @@
 :geographischer_horizont a skos:Concept ;
   skos:prefLabel "Geographischer Horizont"@de ;
   skos:note "Geographischer Horizont umfasst den Figurenraum samt Handlungszonen und Schauplätzen sowie die Kategorie der topographischen Marker; er ist eine Komponente des Handlungsraums (Oberbegriff)."@de ;
-  skos:related :figurenraum , :handlungszone , :topographischer_marker ;
-  skos:broader :handlungsraum .
+  skos:narrower :figurenraum , :topographischer_marker ;
+  skos:broader :handlungsraum ;
+  rdfs:seeAlso litatlas:Horizont .
 
 
 # Geokritik
@@ -124,7 +147,10 @@
   skos:prefLabel "Geokritik"@de ;
   skos:note "Geokritik ist ein Begriff, der durch den französischen Komparatisten Bertrand Westphal eingeführt worden ist – erstmals 2000, dann grundlegend in seinem Buch La Géocritique. Réel, Fiction, Espace (2007), siehe Bibliographie. Westphal definiert seine Geokritik als Methode, die das Verhältnis von Literatur und geographischem Raum untersucht. Die ausdrückliche Bezugnahme auf den geographischen Raum ist dabei zentral. Geokritische Studien im Sinne Westphals bedeuten, dass eine einzelne Stadt, eine Region untersucht wird, unter Berücksichtigung einer möglichst grossen Zahl literarischer Zeugnisse. Geokritik, Geopoetik und Literaturgeographie weisen zahlreiche inhaltliche Parallen auf." ;
   skos:related :geopoetik , :literaturgeographie ;
-  rdfs:seeAlso litatlas:Geokritik .
+  rdfs:seeAlso litatlas:Geokritik ;
+  dc:creator "Bertrand Westphal" ;
+  dc:source "Westphal, B. (2007): La Géocritique. Réel, Fiction, Espace. Paris: Editions du Minuit." .
+
 
 
 # Geopoetik
@@ -132,12 +158,17 @@
   skos:prefLabel "Geopoetik"@de ;
   skos:note "Geopoetik wurde als Ausdruck von Kenneth White geprägt (siehe Bibliographie: White 2007) und zunächst auf die dichterische Produktion bezogen. Jüngst hat der Begriff eine Umbesetzung erfahren, die ihn auch für die literaturwissenschaftliche Forschung tauglich macht. Es geht um die Analyse von in der Literatur hergestellten Landschaften und Territorien, um Raumpoetiken, die “semantisch aufgeladen und an bestimmte Orte, Landschaften und Territorien gekoppelt werden.“ (siehe Bibliographie: Marzalek/Sasse 2010). Geopoetik, Geokritik und Literaturgeographie weisen zahlreiche inhaltliche Parallelen auf." ;
   skos:related :geokritik , :literaturgeographie ;
-  rdfs:seeAlso litatlas:Geopoetik .
+  rdfs:seeAlso litatlas:Geopoetik ;
+  dc:creator "Kenneth White" ;
+  dc:source "White, K. (2007): Streifzüge des Geistes. Nomadenwege zur Geopoetik. Philosophische Abhandlung, aus dem Französischen von Marie-Luise Latsch, Frauenfeld: Waldgut." ;
+  dc:source "Marzalek, M., Sasse, S. (2010), Hrsg.: Geopoetiken. Geographische Entwürfe in den mittel- und osteuropäischen Literaturen. Berlin: Kadmos." .
+  skos:editorialNote "Tippfehler in der Bibliographie: Marsalez, M., Sasse, S. (2010), Hrsg.: Geopoetiken. Geographische Entwürfe in den mittel- und osteuropäischen Literaturen. Berlin: Kadmos." .
+
 
 # Georaum
 :georaum a skos:Concept ;
   skos:prefLabel "Georaum"@de ;
-  skos:note "geographischer Fachbegriff: physischer Raum, geographisch und morphologisch beschreibbar; entspricht dem Erstraum." ;
+  skos:note "geographischer Fachbegriff: physischer Raum, geographisch und morphologisch beschreibbar; entspricht dem Erstraum."@de ;
   skos:related :erstraum ;
   rdfs:seeAlso litatlas:Georaum .
 
@@ -146,24 +177,26 @@
 # Handlungsraum
 :handlungsraum: a skos:Concept ;
   skos:prefLabel "Handlungsraum"@de ;
-  skos:note "erzähltheoretischer Oberbegriff für geographischen Horizont, Figurenraum, Handlungszonen und Schauplätze." ;
+  skos:note "erzähltheoretischer Oberbegriff für geographischen Horizont, Figurenraum, Handlungszonen und Schauplätze."@de ;
   skos:narrower :geographischer_horizont , :figurenraum , :handlungszone , :schauplatz ;
+  skos:broader :textraum ;
   rdfs:seeAlso litatlas:Handlungsraum .
 
 # Handlungszone
 :handlungszone a skos:Concept ;
   skos:prefLabel "Handlungszone"@de ;
-  skos:note "Gebiet innerhalb des Handlungsraums, kann mehrere Schauplätze umfassen (das Zusammenfassen von Schauplätzen zu einer Handlungszone ist eine Interpretationsleistung, dieses räumliche Strukturelement ist im Text nicht vorgegeben)." ;
+  skos:note "Gebiet innerhalb des Handlungsraums, kann mehrere Schauplätze umfassen (das Zusammenfassen von Schauplätzen zu einer Handlungszone ist eine Interpretationsleistung, dieses räumliche Strukturelement ist im Text nicht vorgegeben)."@de ;
   skos:broader :handlungsraum ;
+  skos:related :schauplatz ;
   rdfs:seeAlso litatlas:Handlungszone .
-
-# Horizont?
-#  rdfs:seeAlso litatlas:Horizont
 
 # Hyperraum
 :hyperraum a skos:Concept ;
   skos:prefLabel "Hyperraum"@de ;
-  skos:note "von mehreren Texträumen konstituierter Raum (nach Ungern-Sternberg 2003, siehe Bibliographie); spezifische (weil rein literarische) Ausformung des Zweitraums." ;
+  skos:note "von mehreren Texträumen konstituierter Raum (nach Ungern-Sternberg 2003, siehe Bibliographie); spezifische (weil rein literarische) Ausformung des Zweitraums."@de ;
+  skos:related :textraum ;
+  skos:broader :zweitraum ;
+  dc:source "Ungern-Sternberg, A. von (2003): Erzählregionen. Überlegungen zu literarischen Räumen mit Blick auf die deutsche Literatur des Baltikums, das Baltikum und die deutsche Literatur. Bielefeld: Aisthesis." ;
   rdfs:seeAlso litatlas:Hyperraum .
 
 # I
@@ -172,65 +205,65 @@
 
 :importiert a skos:Concept ;
   skos:prefLabel "importiert"@de ;
-  skos:note "(Schauplätze, projizierte Räume): Der Georaum wird topographisch und toponymisch korrekt wiedergegeben." .
+  skos:note "(Schauplätze, projizierte Räume): Der Georaum wird topographisch und toponymisch korrekt wiedergegeben."@de ;
+  skos:scopeNote "Schauplatz; projizierter Raum" ;
+  dc:creator "literaturatlas.eu" .
 
 
 # L
 
-# Lage; hierarachisch, deshalb schwierig.
+# Lage
 :lage a skos:Concept ;
   skos:prefLabel "Lage"@de ;
-  skos:note "(Schauplätze, projizierte Räume): Verzeichnet wird der Genauigkeitsgrad in drei Stufen: präzise, zonal, unbestimmt." .
+  skos:note "(Schauplätze, projizierte Räume): Verzeichnet wird der Genauigkeitsgrad in drei Stufen: präzise, zonal, unbestimmt."@de ;
+  skos:scopeNote "Schauplatz; projizierter Raum" ;
+  skos:narrower :praezise , :zonal , :unbestimmt ;
+  dc:creator "literaturatlas.eu" .
 
+# präzise (Lage)
+:praezise: a skos:Concept ;
+  skos:prefLabel "präzise"@de ;
+  skos:note "Ein Dorf, eine Stadt, eine Region, ein Land lässt sich genau auf der Karte finden und eintragen."@de ;
+  skos:broader :lage ;
+  skos:scopeNote "Schauplatz; projizierter Raum" ;
+  dc:creator "literaturatlas.eu" .
 
+# zonal (Lage)
+:zonal a skos:Concept ;
+  skos:prefLabel "zonal"@de ;
+  skos:note "Durch Ausschlussverfahren lässt sich eine bestimmte Zone ermitteln, in der der Schauplatz sich aller Wahrscheinlichkeit nach befindet."@de ;
+  skos:broader :lage ;
+  skos:scopeNote "Schauplatz; projizierter Raum" ;
+  dc:creator "literaturatlas.eu" .
 
-# Lage -Anfang-
+# unbestimmt (Lage)
+:unbestimmt a skos:Concept ;
+  skos:prefLabel "unbestimmt"@de ;
+  skos:note "Es gibt keinerlei Aufschluss über die Lage des Schauplatzes, er liegt »irgendwo«. In diesem Fall ist folgerichtig auf eine Eingabe im Koordinatenfeld zu verzichten (Bsp. das »Land of Oz« aus dem Märchenbuch The Wonderful wizard of Oz (1900), das als vollkommen autonome Geographie existiert, ohne jegliche Anbindung an eine reale Welt)."@de ;
+  skos:example "»Land of Oz« aus dem Märchenbuch The Wonderful wizard of Oz (1900)." ;
+  skos:broader :lage ;
+  skos:scopeNote "Schauplatz; projizierter Raum" ;
+  dc:creator "literaturatlas.eu" .
 
-# LAGE (Schauplätze, projizierte Räume): Verzeichnet wird der Genauigkeitsgrad in drei Stufen:
-
-# PRÄZISE: Ein Dorf, eine Stadt, eine Region, ein Land lässt sich genau auf der Karte finden und eintragen.
-
-# ZONAL: Durch Ausschlussverfahren lässt sich eine bestimmte Zone ermitteln, in der der Schauplatz sich aller Wahrscheinlichkeit nach befindet.
-
-# UNBESTIMMT: Es gibt keinerlei Aufschluss über die Lage des Schauplatzes, er liegt »irgendwo«. In diesem Fall ist folgerichtig auf eine Eingabe im Koordinatenfeld zu verzichten (Bsp. das »Land of Oz« aus dem Märchenbuch The Wonderful wizard of Oz (1900), das als vollkommen autonome Geographie existiert, ohne jegliche Anbindung an eine reale Welt).
-
-
-
-:präzise: a skos:Concept ;
-skos:prefLabel "präzise:"@de ;
-skos:note "PRÄZISE: Ein Dorf, eine Stadt, eine Region, ein Land lässt sich genau auf der Karte finden und eintragen."
-
-
-
-:zonal: schauplatz a skos:Concept ;
-skos:prefLabel "zonal: schauplatz"@de ;
-skos:note "ZONAL: Durch Ausschlussverfahren lässt sich eine bestimmte Zone ermitteln, in der der Schauplatz sich aller Wahrscheinlichkeit nach befindet."
-
-
-
-:unbestimmt: schauplatzes a skos:Concept ;
-skos:prefLabel "unbestimmt: schauplatzes"@de ;
-skos:note "UNBESTIMMT: Es gibt keinerlei Aufschluss über die Lage des Schauplatzes, er liegt »irgendwo«. In diesem Fall ist folgerichtig auf eine Eingabe im Koordinatenfeld zu verzichten (Bsp. das »Land of Oz« aus dem Märchenbuch The Wonderful wizard of Oz (1900), das als vollkommen autonome Geographie existiert, ohne jegliche Anbindung an eine reale Welt)."
-
-
-
-
-# Lage -Ende-
 
 # Landschaft, assoziative
 :assoziative_landschaft a skos:Concept ;
   skos:prefLabel "Assoziative Landschaft"@de ;
-  skos:note "Ausschnitt aus dem Georaum; stellt sich eher in geistigen Bezügen aus Religion, Kunst oder Literatur als in materiellen Bestandteilen dar (gemäss UNESCO-Definition, siehe Bibliographie: UNESCO 2009: 285)." .
+  skos:note "Ausschnitt aus dem Georaum; stellt sich eher in geistigen Bezügen aus Religion, Kunst oder Literatur als in materiellen Bestandteilen dar (gemäss UNESCO-Definition, siehe Bibliographie: UNESCO 2009: 285)."@de ;
+  skos:related :georaum ;
+  dc:creator "literaturatlas.eu" ;
+  dc:source "UNESCO (2009): Welterbe-Manual. Handbuch zur Umsetzung der Welterbekonvention in Deutschland, Luxemburg, Österreich und der Schweiz. Bonn: Deutsche Unesco-Kommission." .
 
 # Leserraum
 :leserraum a skos:Concept ;
   skos:prefLabel "Leserraum"@de ;
-  skos:note "rezeptionsästhetische Kategorie: enthält die geographische und topographische Enzyklopädie des Lesers." .
+  skos:note "rezeptionsästhetische Kategorie: enthält die geographische und topographische Enzyklopädie des Lesers."@de ;
+  dc:creator "literaturatlas.eu" .
 
 # Literaturgeographie
 :literaturgeographie a skos:Concept ;
   skos:prefLabel "Literaturgeographie"@de ;
-  skos:note "Oberbegriff, der den Untersuchungsgegenstand bezeichnet: Analysiert wird die spezifische Geographie der Literatur als Teilaspekt der räumlichen Dimension von Literatur überhaupt. Die zentralen Fragen lauten: Wo spielt die Literatur und weshalb spielt sie (gerade) dort? Literaturgeographische Untersuchungen können mit oder ohne Karten ausgeführt werden. Der methodische Ansatz über Karten (Literaturkartographie) ist eine von vielen Möglichkeiten." ;
+  skos:note "Oberbegriff, der den Untersuchungsgegenstand bezeichnet: Analysiert wird die spezifische Geographie der Literatur als Teilaspekt der räumlichen Dimension von Literatur überhaupt. Die zentralen Fragen lauten: Wo spielt die Literatur und weshalb spielt sie (gerade) dort? Literaturgeographische Untersuchungen können mit oder ohne Karten ausgeführt werden. Der methodische Ansatz über Karten (Literaturkartographie) ist eine von vielen Möglichkeiten."@de ;
   skos:narrower :literaturkartographie ;
   rdfs:seeAlso litatlas:Literaturgeographie .
 
@@ -248,19 +281,23 @@ skos:note "UNBESTIMMT: Es gibt keinerlei Aufschluss über die Lage des Schauplat
 :marker a skos:Concept ;
   skos:prefLabel "topographischer Marker"@de ;
   skos:note "bloss erwähnter Raum, Ort; ohne dortigen Aufenthalt der handelnden Figuren, d. h. nicht im Status eines Schauplatzes oder eines projizierten Raums. Es wird unterschieden zwischen Markern innerhalb und ausserhalb der Modellregion." ;
-  rdfs:seeAlso litatlas:Marker .
+  skos:related :schauplatz , :projizierter_raum_weg ;
+  rdfs:seeAlso litatlas:Marker ;
+  dc:creator "literaturatlas.eu" .
 
-# Metaraum
+# Metaraum, literarischer
 :metaraum a skos:Concept ;
   skos:prefLabel "Literarischer Metaraum"@de ;
   skos:note "aus mehreren Texträumen bestehender Raum; entspricht dem Hyperraum; ist eine spezifische (weil rein literarische) Ausformung des Zweitraums." ;
+  skos:related :textraum ;
   skos:related :hyperraum ;
   skos:broader :zweitraum .
 
 # mythisch konnotiert
 :mythisch_konnotiert a skos:Concept ;
   skos:prefLabel "mythisch konnotiert"@de ;
-  skos:note "(Schauplätze, projizierte Räume): Verzeichnet werden explizite mythische Anspielungen. Beispiele: Aus den drei Modellregionen des “Literarischen Atlas Europas” – das Rütli, der Vishehrad, die Insel Rungholt." .
+  skos:note "(Schauplätze, projizierte Räume): Verzeichnet werden explizite mythische Anspielungen. Beispiele: Aus den drei Modellregionen des “Literarischen Atlas Europas” – das Rütli, der Vishehrad, die Insel Rungholt." ;
+  dc:creator "literaturatlas.eu" .
 
 
 # P
@@ -268,8 +305,10 @@ skos:note "UNBESTIMMT: Es gibt keinerlei Aufschluss über die Lage des Schauplat
 :projizierter_raum_weg a skos:Concept ;
   skos:prefLabel "Projizierter Raum/Weg"@de ;
   skos:note "Raum auf der Ebene des geographischen Horizonts; wird von den Figuren nicht 'betreten'; im Laufe der Handlung (Unterkategorien: Traumorte, Sehnsuchtsorte, erinnerte Orte, evozierte Orte)." ;
+  skos:related :geographischer_horizont ;
   skos:narrower :traumort , :sehnsuchtsort , :erinnerter_ort , :evozierter_ort ;
-  rdfs:seeAlso litatlas:Projiziert .
+  rdfs:seeAlso litatlas:Projiziert ;
+  dc:creator "literaturatlas.eu" .
 
 # Neu angelegt, IB:
 
@@ -296,11 +335,15 @@ skos:note "UNBESTIMMT: Es gibt keinerlei Aufschluss über die Lage des Schauplat
 # protagonistisch-physisch
 :protagonistisch-physisch a skos:Concept ;
   skos:prefLabel "protagonistisch-physisch"@de ;
-  skos:note "(Schauplätze, projizierte Räume): Der Raum greift selber buchstäblich in die Handlung ein, in der Regel in Form von Naturereignissen und -katastrophen, wie Überschwemmungen, Erdrutsche, Lawinen etc." .
+  skos:note "(Schauplätze, projizierte Räume): Der Raum greift selber buchstäblich in die Handlung ein, in der Regel in Form von Naturereignissen und -katastrophen, wie Überschwemmungen, Erdrutsche, Lawinen etc."@de ;
+  skos:scopeNote "Schauplatz; projizierter Raum" ;
+  dc:creator "literaturatlas.eu" .
 
 :protagonistisch-poetologisch a skos:Concept ;
   skos:prefLabel "protagonistisch-poetologisch"@de ;
-  skos:note "(Schauplätze, projizierte Räume): Der Schauplatz hat Einfluss auf die Psyche der Figuren, etwa indem er das Gefühl des Gefangenseins, des Bedrohtseins hervorruft (typisch für einen Stadtraum). Auch positive Gefühle sind denkbar (Gefühle der Freiheit o.ä.)." .
+  skos:note "(Schauplätze, projizierte Räume): Der Schauplatz hat Einfluss auf die Psyche der Figuren, etwa indem er das Gefühl des Gefangenseins, des Bedrohtseins hervorruft (typisch für einen Stadtraum). Auch positive Gefühle sind denkbar (Gefühle der Freiheit o.ä.)."@de ;
+  skos:scopeNote "Schauplatz; projizierter Raum" ;
+  dc:creator "literaturatlas.eu" .
 
 
 # R
@@ -308,30 +351,35 @@ skos:note "UNBESTIMMT: Es gibt keinerlei Aufschluss über die Lage des Schauplat
 # Raum, fiktionalisierter
 :fiktionalisierter_raum a skos:Concept ;
   skos:prefLabel "Fiktionalisierter Raum"@de ;
-  skos:note "Ausschnitt aus dem Georaum, wird in einem fiktionalen Text zum  Handlungsraum modelliert." ;
+  skos:note "Ausschnitt aus dem Georaum, wird in einem fiktionalen Text zum  Handlungsraum modelliert."@de ;
   skos:editorialNote "Beschreibung angepasst, (Unterbegriff von literarisierter Raum) über skos:broader" ;
   skos:broader :literarisierter_raum ;
+  skos:related :handlungsraum , :georaum ;
   rdfs:seeAlso litatlas:Raum_fiktionalisierter .
 # http://www.literaturatlas.eu/forschungsmaterial/glossary/#Raum, fiktionalisierter
 
 # Raum, literarisierter
 :literarisierter_raum a skos:Concept ;
   skos:prefLabel "Literarisierter Raum"@de ;
-  skos:note "Ausschnitt aus dem Georaum, zum Gegenstand der Literatur geworden (in sämtlichen Genres)." ;
+  skos:note "Ausschnitt aus dem Georaum, zum Gegenstand der Literatur geworden (in sämtlichen Genres)."@de ;
   skos:narrower :fiktionalisierter_raum ;
+  skos:related :georaum ;
   rdfs:seeAlso litatlas:Raum_literarisierter .
 # http://www.literaturatlas.eu/forschungsmaterial/glossary/raum,literarisierter
 
 # Raum der Fiktion
 :raum_der_fiktion a skos:Concept ;
   skos:prefLabel "Raum der Fiktion"@de ;
-  skos:note "Handlungsraum ohne jegliche Referenzen auf den Georaum hin; entspricht einem fingierten Handlungsraum." .
+  skos:note "Handlungsraum ohne jegliche Referenzen auf den Georaum hin; entspricht einem fingierten Handlungsraum."@de ;
+  skos:related :fingiert .
 
 # Referentialisierung, indirekte
 :indirekte_referentialisierung a skos:Concept ;
   skos:prefLabel "Indirekte Referentialisierung"@de ;
   skos:note "eine geographische Einheit (Stadt, Dorf, Region, Fluss, See, Meer, Berg, Tal etc.) wird nicht mit dem entsprechenden Toponym benannt, sondern be- und umschrieben. Über typische Einzelelemente (z. B. Seine, Eiffelturm = Paris) lässt sich die grössere Einheit bestimmen." ;
-  rdfs:seeAlso litatlas:IReferentialisierung .
+  rdfs:seeAlso litatlas:IReferentialisierung ;
+  skos:related :toponymie ;
+  dc:creator "literaturatlas.eu" .
 
 
 # S
@@ -340,33 +388,59 @@ skos:note "UNBESTIMMT: Es gibt keinerlei Aufschluss über die Lage des Schauplat
 :schauplatz a skos:Concept ;
   skos:prefLabel "Schauplatz"@de ;
   skos:note "kleinste Einheit des Handlungsraums. Mehrere Schauplätze können – auf Grundlage einer Interpretation – zu einer Handlungszone zusammengefasst werden." ;
-  rdfs:seeAlso litatlas:Schauplatz .
+  skos:broader :handlungsraum ;
+  skos:related :handlungszone ;
+  rdfs:seeAlso litatlas:Schauplatz ;
+  dc:creator "literaturatlas.eu" .
 
 # synthetisiert
 :synthetisiert a skos:Concept ;
   skos:prefLabel "synthetisiert"@de ;
-  skos:note "(Schauplätze, projizierte Räume): In der Fiktion werden zwei bestehende Räume überblendet, so dass ein neuer, dritter Raum entsteht. Beispiel: In Ernst Jüngers Roman »Auf den Marmorklippen« (1939) werden Bodenseeregion und Mittelmeerküste synthetisiert, in Julio Cortazars Erzählung “Das Feuer aller Feuer” (1966) sind es Buenos Aires und Paris, die ineinander geblendet werden." ;
+  skos:note "(Schauplätze, projizierte Räume): In der Fiktion werden zwei bestehende Räume überblendet, so dass ein neuer, dritter Raum entsteht. Beispiel: In Ernst Jüngers Roman »Auf den Marmorklippen« (1939) werden Bodenseeregion und Mittelmeerküste synthetisiert, in Julio Cortazars Erzählung “Das Feuer aller Feuer” (1966) sind es Buenos Aires und Paris, die ineinander geblendet werden."@de ;
   skos:example "In Ernst Jüngers Roman »Auf den Marmorklippen« (1939) werden Bodenseeregion und Mittelmeerküste synthetisiert. " ;
   skos:example "In Julio Cortazars Erzählung “Das Feuer aller Feuer” (1966) sind es Buenos Aires und Paris, die ineinander geblendet werden." ;
-  rdfs:seeAlso litatlas:Synthetisiert .
+  skos:scopeNote "Schauplatz; projizierter Raum" ;
+  rdfs:seeAlso litatlas:Synthetisiert ;
+  dc:creator "literaturatlas.eu" .
 
 # T
 
 # thematisch-kulissenhaft
 :thematisch-kulissenhaft a skos:Concept ;
   skos:prefLabel "thematisch-kulissenhaft"@de ;
-  skos:note "(Schauplätze, projizierte Räume): Der Raum wird plastisch geschildert, ist wesentliches Element der Handlung, u. a. spielen Komponenten wie Landschaftsschilderung, Architekturschilderung, Atmosphäre eine Rolle. Der Schauplatz verliert an Austauschbarkeit." .
+  skos:note "(Schauplätze, projizierte Räume): Der Raum wird plastisch geschildert, ist wesentliches Element der Handlung, u. a. spielen Komponenten wie Landschaftsschilderung, Architekturschilderung, Atmosphäre eine Rolle. Der Schauplatz verliert an Austauschbarkeit."@de ;
+  skos:scopeNote "Schauplatz; projizierter Raum" ;
+  dc:creator "literaturatlas.eu" .
+
+# neu hinzu? - IB:
+#:landschaftsschilderung a skos:Concept ;
+#  skos:prefLabel "Landschaftsschilderung" ;
+#  skos:related :architekturschilderung .
+
+#:architekturschilderung a skos:Concept ;
+#  skos:prefLabel "Architekturschilderung" ;
+#  skos:related :landschaftsschilderung .
+
+#:atmosphaere a skos:Concept ;
+#  skos:prefLabel "Atmosphäre" .
+
+# Ende -neu hinzu
+
 
 # Textraum
 :textraum a skos:Concept ;
   skos:prefLabel "Textraum"@de ;
-  skos:note "medial vermittelter Raum, d.h. mit Hilfe sprachlicher Zeichen erzeugt; dies betrifft Handlungsräume, aber auch rein deskriptiv evozierte Räume, etwa in Gedichten." ;
-  rdfs:seeAlso litatlas:Textraum .
+  skos:note "medial vermittelter Raum, d.h. mit Hilfe sprachlicher Zeichen erzeugt; dies betrifft Handlungsräume, aber auch rein deskriptiv evozierte Räume, etwa in Gedichten."@de ;
+  skos:narrower :handlungsraum ;
+  rdfs:seeAlso litatlas:Textraum ;
+  dc:creator "literaturatlas.eu" .
 
 # Toponymie
 :toponymie a skos:Concept ;
   skos:prefLabel "Toponymie"@de ;
-  skos:note "Die Beschriftung von Orten, Gewässern, Bergen etc. auf einer Landkarte. Unterschieden werden für die Beschriftung von Schauplätzen und projizierten Räumen im “Literarischen Atlas Europas” folgende Unterkategorien: aktuell-realreferent, fremdsprachlich, historisch, neu erfunden, umbenannt/verschleiert, umschrieben/namenlos, verschwunden, zusammengefasst, transformiert, verschoben." .
+  skos:note "Die Beschriftung von Orten, Gewässern, Bergen etc. auf einer Landkarte. Unterschieden werden für die Beschriftung von Schauplätzen und projizierten Räumen im “Literarischen Atlas Europas” folgende Unterkategorien: aktuell-realreferent, fremdsprachlich, historisch, neu erfunden, umbenannt/verschleiert, umschrieben/namenlos, verschwunden, zusammengefasst, transformiert, verschoben."@de ;
+  skos:narrower :aktuell-realreferent , :fremdsprachlich , :historisch , :neu-erfunden , :umbenannt_verschleiert , :umschrieben_namenlos , :verschwunden , :zusammengefasst , :transformiert , :verschoben ;
+  dc:creator "literaturatlas.eu" .
 
 
 # Unterkategorien zu Toponymie -Anfang-
@@ -375,27 +449,31 @@ skos:note "UNBESTIMMT: Es gibt keinerlei Aufschluss über die Lage des Schauplat
 :aktuell-realreferent a skos:Concept ;
   skos:prefLabel "aktuell-realreferent:"@de ;
   skos:note "Das auf aktuellen Landkarten/Stadtplänen verzeichnete Toponym" ;
-  skos:broader :toponymie .
+  skos:broader :toponymie ;
+  dc:creator "literaturatlas.eu" .
 
 
 # fremdsprachlich
 :fremdsprachlich a skos:Concept ;
   skos:prefLabel "fremdsprachlich (realreferent)"@de ;
   skos:note "Eine wie auch immer geartete Differenz zur heutigen Amtssprache (in mehrsprachigen Modellregionen besonders heikel, dennoch gilt bis auf weiteres die Regelung, dass deutsche Texte in Prag bzw. dänische Texte in Nordfriesland als »anderssprachlich« eingetragen werden)" ;
-  skos:broader :toponymie .
+  skos:broader :toponymie ;
+  dc:creator "literaturatlas.eu" .
 
 # historisch
 :historisch a skos:Concept ;
   skos:prefLabel "historisch (realreferent)"@de ;
   skos:note "Ein früher geläufiges Toponym." ;
-  skos:broader :toponymie .
+  skos:broader :toponymie ;
+  dc:creator "literaturatlas.eu" .
 
 # neu erfunden
-:neu-erfunden: a skos:Concept ;
+:neu-erfunden a skos:Concept ;
   skos:prefLabel "neu erfunden"@de ;
   skos:note "Benennung einer neu erfundenen Lokalität durch den Autor." ;
   skos:example "Das Städtchen Seldwyla bei Gottfried Keller." ;
-  skos:broader :toponymie .
+  skos:broader :toponymie ;
+  dc:creator "literaturatlas.eu" .
 
 # umbenannt/verschleiert
 :umbenannt_verschleiert a skos:Concept ;
@@ -403,69 +481,97 @@ skos:note "UNBESTIMMT: Es gibt keinerlei Aufschluss über die Lage des Schauplat
   skos:note "Eine existierende Lokalität wird umbenannt (Bsp. New York wird zu »Gotham City«) oder im Namenlosen belassen (z. B. mit »die Stadt« ist bei Theodor Storm zumeist Husum gemeint)." ;
   skos:example "New York wird zu »Gotham City«" ;
   skos:example "Mit »die Stadt« ist bei Theodor Storm zumeist Husum gemeint." ;
-  skos:broader :toponymie .
+  skos:broader :toponymie ;
+  dc:creator "literaturatlas.eu" .
 
 # umschrieben
 :umschrieben_namenlos a skos:Concept ;
   skos:prefLabel "umschrieben/namenlos"@de ;
   skos:note "Namenlos = die Stadt, das Dorf, das Schloss; umschrieben werden Schauplätze oft mit einem Genitiv: »das Haus der Geliebten«, »die Hütte meines Grossvaters« etc." ;
-  skos:broader :toponymie .
+  skos:broader :toponymie ;
+  dc:creator "literaturatlas.eu" .
 
 # verschwunden
-:verschwunden: a skos:Concept ;
+:verschwunden a skos:Concept ;
   skos:prefLabel "verschwunden"@de ;
   skos:note "Nicht mehr existente Orte, etwa Häuser und Strassen im assanierten Prager Stadtteil Josefov oder die untergegangene Insel Rungholt in Nordfriesland." ;
-  skos:broader :toponymie .
+  skos:broader :toponymie ;
+  dc:creator "literaturatlas.eu" .
 
 
 :zusammengefasst a skos:Concept ;
   skos:prefLabel "zusammengefasst"@de ;
   skos:note "Mehrere Schauplätze, projizierte Räume werden zu einer Handlungszone zusammengefasst und neu beschriftet (Akt der Interpretation)." ;
-  skos:broader :toponymie .
+  skos:broader :toponymie ;
+  dc:creator "literaturatlas.eu" .
 
 
 :transformiert a skos:Concept ;
   skos:prefLabel "transformiert"@de ;
   skos:note "(Schauplätze, projizierte Räume): Abweichungen vom Georaum. Der Schauplatz wird transformiert – dazu gehören die literarischen Techniken von Re-Modellierung, Umbenennung, Neu-Lokalisierung, Synthese mehrerer Raumeinheiten." ;
-  skos:broader :toponymie .
+  skos:scopeNote "Schauplatz; projizierter Raum" ;
+  skos:broader :toponymie ;
+  dc:creator "literaturatlas.eu" .
+
+# neu einführen:
+#re-modellierung
+#Umbenennung - könnte aber sein: "umbenannt_verschleiert"
+#neu-lokalisierung – könnte "verschoben" meinen
+#synthese mehrere Raumeinheiten (ist angelegt)
 
 
 :verschoben a skos:Concept ;
   skos:prefLabel "verschoben"@de ;
   skos:note "(Schauplätze, projizierte Räume): Ein existierender Ort wird in der Fiktion an einen neuen Standort, in einen neuen geographischen Kontext verschoben." ;
-  skos:broader :toponymie .
+  skos:scopeNote "Schauplatz; projizierter Raum" ;
+  skos:broader :toponymie ;
+  dc:creator "literaturatlas.eu" .
 
 
 # Unterkategorien zu Toponymie -Ende-
+# Man muss vor allem klären, ob transformiert und verschoben auch dazuzählen.
 
 # W
 
 # Wege, Routen
 :wege_routen a skos:Concept ;
   skos:prefLabel "Wege, Routen"@de ;
-  skos:note "über die sich die handelnden Figuren durch den fiktionalen Raum bewegen." ;
-  skos:editorialNote "Hier fehlt ein Überbegriff; Konzept im Singular anlegen." .
+  skos:note "über die sich die handelnden Figuren durch den fiktionalen Raum bewegen."@de ;
+  skos:editorialNote "Hier fehlt ein Überbegriff; Konzept im Singular anlegen." ;
+  dc:creator "literaturatlas.eu" .
 
 # Wegpunkte
 
 :wegpunkte a skos:Concept ;
   skos:prefLabel "Wegpunkte"@de ;
-  skos:note "werden während der Dateneingabe erfasst, um den Verlauf eines Figurenweges schematisch oder präziser zu erfassen. Wegpunkte lassen sich folgenden Kategorien zuordnen: schematisiert, plausibilisiert, interpretiert." .
+  skos:note "werden während der Dateneingabe erfasst, um den Verlauf eines Figurenweges schematisch oder präziser zu erfassen. Wegpunkte lassen sich folgenden Kategorien zuordnen: schematisiert, plausibilisiert, interpretiert."@de ;
+  dc:creator "literaturatlas.eu" .
+
+# neu anlegen: Figurenweg?
 
 # schematisiert (Wegpunkt)
 :schematisiert a skos:Concept ;
   skos:prefLabel "schematisiert"@de ;
-  skos:note "übernommen werden nur diejenigen Stationen, die im Text explizit erwähnt und benannt sind. Das kartographische Resultat ähnelt häufig einer stark schematisierten Flugroute." .
+  skos:scopeNote "Wegpunkt; Wege, Routen" ;
+  skos:note "übernommen werden nur diejenigen Stationen, die im Text explizit erwähnt und benannt sind. Das kartographische Resultat ähnelt häufig einer stark schematisierten Flugroute."@de ;
+  skos:related :plausibilisiert , :interpretiert ;
+  dc:creator "literaturatlas.eu" .
 
 # plausibilisiert (Wegpunkt)
 :plausibilisiert a skos:Concept ;
   skos:prefLabel "plausibilisiert"@de ;
-  skos:note "die schematische Route wird ergänzt um »Stützpunkte«, die den Wegverlauf plausibler gestalten. Eine Schiffsreise etwa kann sinnvoll auf dem Wasser (Fluss, See, Meer) dargestellt werden; im schematischen Modus mag sie manchmal über Land führen." .
+  skos:scopeNote "Wegpunkt; Wege, Routen" ;
+  skos:note "die schematische Route wird ergänzt um »Stützpunkte«, die den Wegverlauf plausibler gestalten. Eine Schiffsreise etwa kann sinnvoll auf dem Wasser (Fluss, See, Meer) dargestellt werden; im schematischen Modus mag sie manchmal über Land führen."@de ;
+  skos:related :schematisiert , :interpretiert ;
+  dc:creator "literaturatlas.eu" .
 
 # interpretiert (Wegpunkt)
 :interpretiert a skos:Concept ;
   skos:prefLabel "interpretiert"@de ;
-  skos:note "hier werden indirekte Referentialisierungen von Wegstationen aufgelöst und in die Interpretation mit einbezogen." .
+  skos:scopeNote "Wegpunkt; Wege, Routen" ;
+  skos:note "hier werden indirekte Referentialisierungen von Wegstationen aufgelöst und in die Interpretation mit einbezogen."@de ;
+  skos:related :schematisiert , :plausibilisiert ;
+  dc:creator "literaturatlas.eu" .
 
 # Z
 
@@ -473,21 +579,6 @@ skos:note "UNBESTIMMT: Es gibt keinerlei Aufschluss über die Lage des Schauplat
 :zweitraum a skos:Concept ;
   skos:prefLabel "Zweitraum"@de ;
   skos:note "enthält ideelle, imaginative Repräsentationen des Erstraums, z. B. in Literatur und Bildender Kunst (nach Soja 1996, siehe Bibliographie)." ;
+  skos:narrower :hyperraum ;
+  dc:source "Soja, Eduard W. (1996): Thirdspace, Journeys to Los Angeles and Other Real-and-Imagined Places. Oxford: Basil Blackwell." ;
   rdfs:seeAlso litatlas:Zweitraum .
-
-
-
-
-
-
-
-### WO GEHÖRT DAS HIN?
-
-# Keine Ahnung, was das ist...
-:georaum raum der fiktion a skos:Concept ;
-skos:prefLabel "georaum raum der fiktion"@de ;
-skos:note "FINGIERT  (betrifft: Schauplätze, projizierte Räume): Handlungsraum, der keinerlei Referenzen auf den Georaum aufweist; entspricht einem Raum der Fiktion."
-
-
-
-# ---
