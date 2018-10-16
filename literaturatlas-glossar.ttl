@@ -7,7 +7,7 @@
 
 # Metadata
 
-:litgeo a skos:ConceptScheme ;
+:litatlasglossar a skos:ConceptScheme ;
    dc:title "Glossar Literaturgeographie und Literaturkartographie"@de ;
    # dc:description ""@de ;
    dc:creator "Barbara Piatti" ;
@@ -65,7 +65,7 @@
 # A
 
 # allegorisch-symbolisch konnotiert
-:allegorisch-symbolisch-konnotiert: a skos:Concept ;
+:allegorisch-symbolisch-konnotiert a skos:Concept ;
   skos:prefLabel "allegorisch-symbolisch konnotiert"@de ;
   skos:note "Trifft auf Schauplätze und projizierte Räume zu. Eingetragen wird dieses Attribut nur, wenn explizite, textimmanente Hinweise auf eine solche Bedeutungsschicht zu finden sind. Auf eigene Interpretationen wird weitgehend verzichtet."@de ;
   skos:scopeNote "Schauplatz; projizierter Raum" ;
@@ -175,7 +175,7 @@
 # H
 
 # Handlungsraum
-:handlungsraum: a skos:Concept ;
+:handlungsraum a skos:Concept ;
   skos:prefLabel "Handlungsraum"@de ;
   skos:note "erzähltheoretischer Oberbegriff für geographischen Horizont, Figurenraum, Handlungszonen und Schauplätze."@de ;
   skos:narrower :geographischer_horizont , :figurenraum , :handlungszone , :schauplatz ;
@@ -221,7 +221,7 @@
   dc:creator "literaturatlas.eu" .
 
 # präzise (Lage)
-:praezise: a skos:Concept ;
+:praezise a skos:Concept ;
   skos:prefLabel "präzise"@de ;
   skos:note "Ein Dorf, eine Stadt, eine Region, ein Land lässt sich genau auf der Karte finden und eintragen."@de ;
   skos:broader :lage ;
