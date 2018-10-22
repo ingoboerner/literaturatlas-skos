@@ -5,17 +5,18 @@
 
 @prefix litatlas: <http://www.literaturatlas.eu/forschungsmaterial/glossary/#> .
 
-@prefix la: <http://vocabs.acdh.ac.at/litatlas#> .
+@prefix la: <http://vocabs.acdh.oeaw.ac.at/litatlas#> .
 
 # Metadata
 
-<http://vocabs.acdh.ac.at/litatlas> a skos:ConceptScheme ;
+<http://vocabs.acdh.oeaw.ac.at/litatlas> a skos:ConceptScheme ;
    dc:title "Glossar Literaturgeographie und Literaturkartographie"@de ;
    # dc:description ""@de ;
    dc:creator "Barbara Piatti" ;
    dc:creator "literaturatlas.eu" ;
-   dc:publisher "Austrian Centre for Digital Humanities – ACDH" ;
-   dc:contributor "Ingo Boerner" ;
+   dc:publisher "literaturatlas.eu" ;
+   dc:publisher "ACDH – Austrian Centre for Digital Humanities" ;
+   dc:contributor "Ingo Boerner (SKOS)" ;
    dc:language "German" ;
    dc:subject "Literaturwissenschaft"@de , "Literaturgeographie"@de , "literary studies"@en , "literary geography"@en ;
    dc:source <http://www.literaturatlas.eu/forschungsmaterial/glossary> ;
@@ -449,7 +450,7 @@ la:toponymie a skos:Concept ;
 
 # aktuell-realreferent
 la:aktuell-realreferent a skos:Concept ;
-  skos:prefLabel "aktuell-realreferent:"@de ;
+  skos:prefLabel "aktuell-realreferent"@de ;
   skos:note "Das auf aktuellen Landkarten/Stadtplänen verzeichnete Toponym" ;
   skos:broader la:toponymie ;
   dc:creator "literaturatlas.eu" .
