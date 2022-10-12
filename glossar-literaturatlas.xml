@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="de-DE">
+<head profile="http://gmpg.org/xfn/11">
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="distribution" content="global" />
+<meta name="robots" content="follow, all" />
+<meta name="language" content="en" />
+<meta name="verify-v1" content="7XvBEj6Tw9dyXjHST/9sgRGxGymxFdHIZsM6Ob/xo5E=" />
+<meta name="viewport" content="width=device-width, maximum-scale=1.0" />
+
+<title>  Glossar : Ein Literarischer Atlas Europas</title>
+<link rel="Shortcut Icon" href="http://www.literaturatlas.eu/wp-content/themes/organic_structure01/images/favicon.ico" type="image/x-icon" />
+
+<link rel="stylesheet" href="http://www.literaturatlas.eu/wp-content/themes/organic_structure01/style.css" type="text/css" media="screen" />
+
+<link rel="alternate" type="application/rss+xml" title="Ein Literarischer Atlas Europas RSS Feed" href="http://www.literaturatlas.eu/feed/" />
+<link rel="alternate" type="application/atom+xml" title="Ein Literarischer Atlas Europas Atom Feed" href="http://www.literaturatlas.eu/feed/atom/" />
+<link rel="pingback" href="http://www.literaturatlas.eu/xmlrpc.php" />
+
+<link rel="alternate" type="application/rss+xml" title="Ein Literarischer Atlas Europas &raquo; Feed" href="http://www.literaturatlas.eu/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Ein Literarischer Atlas Europas &raquo; Kommentar-Feed" href="http://www.literaturatlas.eu/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Ein Literarischer Atlas Europas &raquo; Glossar Kommentar-Feed" href="http://www.literaturatlas.eu/forschungsmaterial/glossary/feed/" />
+<link rel='stylesheet' id='thickbox-css'  href='http://www.literaturatlas.eu/wp-includes/js/thickbox/thickbox.css?ver=20121105' type='text/css' media='all' />
+<link rel='stylesheet' id='googlefonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,regularitalic,600,600italic,700,700italic,800,800italic' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-css'  href='http://latlas.ikgserve.ch/wp-content/plugins/easy-fancybox/fancybox/jquery.fancybox-1.3.6.pack.css?ver=1.5.6' type='text/css' media='screen' />
+<script type='text/javascript' src='http://www.literaturatlas.eu/wp-includes/js/jquery/jquery.js?ver=1.8.3'></script>
+<script type='text/javascript' src='http://www.literaturatlas.eu/wp-includes/js/comment-reply.min.js?ver=3.5.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.literaturatlas.eu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.literaturatlas.eu/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Interdisziplinäre Zusammenarbeit' href='http://www.literaturatlas.eu/project/project-frame/interdisciplinary-work/' />
+<link rel='next' title='Einzelobjektkarten' href='http://www.literaturatlas.eu/project/project-structure/single-object-maps/' />
+<meta name="generator" content="WordPress 3.5.1" />
+<link rel='canonical' href='http://www.literaturatlas.eu/forschungsmaterial/glossary/' />
+
+<meta http-equiv="Content-Language" content="de-DE" />
+<style type="text/css" media="screen">
+.qtrans_flag span { display:none }
+.qtrans_flag { height:12px; width:18px; display:block }
+.qtrans_flag_and_text { padding-left:20px }
+.qtrans_flag_de { background:url(http://latlas.ikgserve.ch/wp-content/plugins/qtranslate/flags/de.png) no-repeat }
+.qtrans_flag_en { background:url(http://latlas.ikgserve.ch/wp-content/plugins/qtranslate/flags/gb.png) no-repeat }
+</style>
+<link hreflang="en" href="http://www.literaturatlas.eu/en/forschungsmaterial/glossary/" rel="alternate" />
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+	
+<!-- <style type="text/css">
+#header #title a {
+background: url(http://www.literaturatlas.eu/wp-content/themes/organic_structure01/images/atlas_logo.png) no-repeat;
+}
+</style> -->
+
+
+<!-- added by anneka -->
+
+<style type="text/css">
+#header #title a {
+background: url(
+	
+	http://www.literaturatlas.eu/wp-content/themes/organic_structure01/images/atlas_logo.png	
+	) no-repeat;
+}
+</style>
+
+<!-- end -->
+
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+
+	<!-- Easy FancyBox 1.5.6 using FancyBox 1.3.6 - RavanH (http://status301.net/wordpress-plugins/easy-fancybox/) -->
+	<script type="text/javascript">
+	/* <![CDATA[ */
+	var fb_timeout = null;
+	var fb_opts = { 'overlayShow' : true, 'hideOnOverlayClick' : true, 'showCloseButton' : true, 'centerOnScroll' : true, 'enableEscapeButton' : true, 'autoScale' : true };
+	var easy_fancybox_handler = function(){
+	/* IMG */
+	var fb_IMG_select = 'a[href*=".jpg"]:not(.nofancybox), area[href*=".jpg"]:not(.nofancybox), a[href*=".gif"]:not(.nofancybox), area[href*=".gif"]:not(.nofancybox), a[href*=".png"]:not(.nofancybox), area[href*=".png"]:not(.nofancybox)';
+	jQuery(fb_IMG_select).addClass('fancybox').attr('rel', 'gallery');
+	jQuery('a.fancybox, area.fancybox, li.fancybox a:not(li.nofancybox a)').fancybox( jQuery.extend({}, fb_opts, { 'transitionIn' : 'elastic', 'easingIn' : 'easeOutBack', 'transitionOut' : 'elastic', 'easingOut' : 'easeInBack', 'opacity' : true, 'hideOnContentClick' : false, 'titleShow' : true, 'titlePosition' : 'over', 'titleFromAlt' : true, 'showNavArrows' : true, 'enableKeyboardNav' : true, 'cyclic' : false }) );
+	/* Auto-click */ 
+	jQuery('#fancybox-auto').trigger('click');
+	}
+	/* ]]> */
+	</script>
+	<style type="text/css">
+.fancybox-hidden{display:none}.rtl #fancybox-left{left:auto;right:0px}.rtl #fancybox-right{left:0px;right:auto}.rtl #fancybox-right-ico{background-position:-40px -30px}.rtl #fancybox-left-ico{background-position:-40px -60px}.rtl .fancybox-title-over{text-align:right}.rtl #fancybox-left-ico,.rtl #fancybox-right-ico{right:-9999px}.rtl #fancybox-right:hover span{right:auto;left:20px}.rtl #fancybox-left:hover span{right:20px}#fancybox-img{max-width:none;max-height:none}
+	</style>
+	<!--[if lt IE 8]>            
+		<style type="text/css">
+.fancybox-ie6 #fancybox-close{background:transparent;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://latlas.ikgserve.ch/wp-content/plugins/easy-fancybox/fancybox/fancy_close.png",sizingMethod="scale")}
+.fancybox-ie6 #fancybox-left-ico{background:transparent;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://latlas.ikgserve.ch/wp-content/plugins/easy-fancybox/fancybox/fancy_nav_left.png",sizingMethod="scale")}
+.fancybox-ie6 #fancybox-right-ico{background:transparent;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://latlas.ikgserve.ch/wp-content/plugins/easy-fancybox/fancybox/fancy_nav_right.png",sizingMethod="scale")}
+.fancybox-ie6 #fancybox-title-over{background:transparent;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://latlas.ikgserve.ch/wp-content/plugins/easy-fancybox/fancybox/fancy_title_over.png",sizingMethod="scale");zoom:1}
+.fancybox-ie6 #fancybox-title-float-left{background:transparent;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://latlas.ikgserve.ch/wp-content/plugins/easy-fancybox/fancybox/fancy_title_left.png",sizingMethod="scale")}
+.fancybox-ie6 #fancybox-title-float-main{background:transparent;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://latlas.ikgserve.ch/wp-content/plugins/easy-fancybox/fancybox/fancy_title_main.png",sizingMethod="scale")}
+.fancybox-ie6 #fancybox-title-float-right{background:transparent;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://latlas.ikgserve.ch/wp-content/plugins/easy-fancybox/fancybox/fancy_title_right.png",sizingMethod="scale")}
+.fancybox-ie6 #fancybox-bg-w,.fancybox-ie6 #fancybox-bg-e,.fancybox-ie6 #fancybox-left,.fancybox-ie6 #fancybox-right,#fancybox-hide-sel-frame{height:expression(this.parentNode.clientHeight+"px")}
+#fancybox-loading.fancybox-ie6{position:absolute;margin-top:0;top:expression((-20+(document.documentElement.clientHeight ? document.documentElement.clientHeight/2 : document.body.clientHeight/2)+(ignoreMe=document.documentElement.scrollTop ? document.documentElement.scrollTop : document.body.scrollTop))+"px")}
+#fancybox-loading.fancybox-ie6 div{background:transparent;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://latlas.ikgserve.ch/wp-content/plugins/easy-fancybox/fancybox/fancy_loading.png", sizingMethod="scale")}
+.fancybox-ie #fancybox-bg-n{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://latlas.ikgserve.ch/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_n.png",sizingMethod="scale")}
+.fancybox-ie #fancybox-bg-ne{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://latlas.ikgserve.ch/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_ne.png",sizingMethod="scale")}
+.fancybox-ie #fancybox-bg-e{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://latlas.ikgserve.ch/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_e.png",sizingMethod="scale")}
+.fancybox-ie #fancybox-bg-se{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://latlas.ikgserve.ch/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_se.png",sizingMethod="scale")}
+.fancybox-ie #fancybox-bg-s{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://latlas.ikgserve.ch/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_s.png",sizingMethod="scale")}
+.fancybox-ie #fancybox-bg-sw{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://latlas.ikgserve.ch/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_sw.png",sizingMethod="scale")}
+.fancybox-ie #fancybox-bg-w{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://latlas.ikgserve.ch/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_w.png",sizingMethod="scale")}
+.fancybox-ie #fancybox-bg-nw{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://latlas.ikgserve.ch/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_nw.png",sizingMethod="scale")}
+		</style>
+	<![endif]-->
+	<!--[if IE 8]>            
+		<style type="text/css">
+.fancybox-ie #fancybox-bg-n{-ms-filter:'progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://latlas.ikgserve.ch/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_n.png",sizingMethod="scale")'}
+.fancybox-ie #fancybox-bg-ne{-ms-filter:'progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://latlas.ikgserve.ch/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_ne.png",sizingMethod="scale")'}
+.fancybox-ie #fancybox-bg-e{-ms-filter:'progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://latlas.ikgserve.ch/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_e.png",sizingMethod="scale")'}
+.fancybox-ie #fancybox-bg-se{-ms-filter:'progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://latlas.ikgserve.ch/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_se.png",sizingMethod="scale")'}
+.fancybox-ie #fancybox-bg-s{-ms-filter:'progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://latlas.ikgserve.ch/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_s.png",sizingMethod="scale")'}
+.fancybox-ie #fancybox-bg-sw{-ms-filter:'progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://latlas.ikgserve.ch/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_sw.png",sizingMethod="scale")'}
+.fancybox-ie #fancybox-bg-w{-ms-filter:'progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://latlas.ikgserve.ch/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_w.png",sizingMethod="scale")'}
+.fancybox-ie #fancybox-bg-nw{-ms-filter:'progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://latlas.ikgserve.ch/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_nw.png",sizingMethod="scale")'}
+		</style>
+	<![endif]-->
+
+<style type="text/css" media="screen">
+
+#container a, #container a:link, #container a:visited, #footerwidgets a, #footerwidgets a:link, #footerwidgets a:visited {
+color: #666666;}
+
+#container a:hover, #container a:focus, #container a:active, #footerwidgets a:hover, #footerwidgets a:focus, #footerwidgets a:active {
+color: #151515;}
+
+#container h1 a, #container h2 a, #container h3 a, #container h4 a, #container h5 a, #container h6 a,
+#container h1 a:link, #container h2 a:link, #container h3 a:link, #container h4 a:link, #container h5 a:link, #container h6 a:link,
+#container h1 a:visited, #container h2 a:visited, #container h3 a:visited, #container h4 a:visited, #container h5 a:visited, #container h6 a:visited {
+color: #151515;}
+
+#container h1 a:hover, #container h2 a:hover, #container h3 a:hover, #container h4 a:hover, #container h5 a:hover, #container h6 a:hover,
+#container h1 a:focus, #container h2 a:focus, #container h3 a:focus, #container h4 a:focus, #container h5 a:focus, #container h6 a:focus,
+#container h1 a:active, #container h2 a:active, #container h3 a:active, #container h4 a:active, #container h5 a:active, #container h6 a:active {
+color: #999999;}
+
+#container a:hover, #container a:focus, #container a:active, #sidebar ul.menu li a:hover, #sidebar_left ul.menu li ul.sub-menu li a:hover, #sidebar_right ul.menu li ul.sub-menu li a:hover, #commentform #submit:hover, #submit:hover, #searchsubmit:hover, .reply a:hover, #prevLink p a:hover, #prevLink p a:focus, #prevLink p a:active, #nextLink p a:hover, #nextLink p a:focus, #nextLink p a:active, #container .portfolioimg a img:hover, #footerwidgets a:hover, #footerwidgets a:focus, #footerwidgets a:active {
+background-color: #FFFF00 !important;}
+</style>
+<script type="text/javascript" src="http://www.literaturatlas.eu/wp-content/themes/organic_structure01/js/superfish/superfish.js"></script>
+<script type="text/javascript" src="http://www.literaturatlas.eu/wp-content/themes/organic_structure01/js/superfish/hoverIntent.js"></script>
+<script type="text/javascript" src="http://www.literaturatlas.eu/wp-content/themes/organic_structure01/js/jquery.anythingslider.js"></script>
+<script type="text/javascript" src="http://www.literaturatlas.eu/wp-content/themes/organic_structure01/js/jquery.anythingslider.video.js"></script>
+<script type="text/javascript" src="http://www.literaturatlas.eu/wp-content/themes/organic_structure01/js/swfobject.js"></script>
+<script type="text/javascript" src="http://www.literaturatlas.eu/wp-content/themes/organic_structure01/js/jquery.masonry.min.js"></script>
+
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<script type="text/javascript" src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'/>
+
+<script type="text/javascript"> 
+	var $j = jQuery.noConflict();
+	$j(document).ready(function() { 
+		$j('.menu').superfish(); 
+	});
+</script>
+
+<script type="text/javascript">
+	var $j = jQuery.noConflict();
+	$j(function(){
+		$j('#slider1').anythingSlider({
+			width           : 620,
+			height          : 440,
+			delay           : 4000,
+			resumeDelay     : 10000,
+			startStopped    : false,
+			autoPlay        : true,
+			autoPlayLocked  : false,
+			easing          : "swing"
+		});
+	});
+</script>
+
+<script type="text/javascript"> 
+	var $j = jQuery.noConflict();
+	$j(document).ready(function () {
+		$j('#homeslider iframe').each(function() {
+			var url = $j(this).attr("src")
+			$j(this).attr("src",url+"&amp;wmode=Opaque")
+		});
+	});
+</script>
+
+<script type="text/javascript"> 
+	var $j = jQuery.noConflict();
+	$j(function(){
+	  $j('#portfolio .postarea').masonry({
+	    // options
+	    itemSelector : '.portfolio',
+	    columnWidth : 320
+	  });
+	});
+</script>
+
+
+</head>
+
+<body class="page page-id-39 page-child parent-pageid-14 page-template page-template-page_full-php custom-background">
+
+<div id="wrap">
+
+    <div id="header">
+        <h2 id="title"><a href="http://www.literaturatlas.eu/" title="Home">Ein Literarischer Atlas Europas</a></h2>
+
+		<!--edit:anneka-->
+		 <div class="headerright">
+			 
+			<form method="get" id="searchformheader" action="http://www.literaturatlas.eu/"> 
+			<input type="text" value="Webseite durchsuchen" name="s" id="searchbox" onblur="if (this.value == '') {this.value = 'Webseite durchsuchen';}"  
+			onfocus="if (this.value == 'Webseite durchsuchen') {this.value = '';}" /> 
+			<input type="hidden" id="searchsubmit" /> 
+			</form>
+
+			<div id="navicons">       
+			       <div class="homewidgets">
+					<div id="qtrans_language_chooser">
+						<ul class="qtrans_language_chooser" id="qtranslate-chooser"><li class="lang-de active"><a href="http://www.literaturatlas.eu/forschungsmaterial/glossary/" hreflang="de" title="  Deutsch  "><span>  Deutsch  </span></a></li><li class="lang-en"><a href="http://www.literaturatlas.eu/en/forschungsmaterial/glossary/" hreflang="en" title="  English  "><span>  English  </span></a></li></ul><div class="qtrans_widget_end"></div>					</div>
+				</div>
+			</div>
+		</div>
+		<!--end-->
+		
+    </div>
+    
+<!--edit:anneka-->
+		<a href="/feed/"><img title="Abonniere Literaturatlas Blog" src="http://latlas.ikgserve.ch/files/2012/03/rss_100px.png" alt="RSS" width="25" height="25" align="right" /></a>
+<!-- end	-->
+
+    <div id="navbar">
+		<div class="menu"><ul id="menu-literaturatlas" class="menu"><li class="home"><a href="http://www.literaturatlas.eu/?lang=de">Home</a></li><li id="menu-item-89" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89"><a href="http://www.literaturatlas.eu/project/">PROJEKT</a>
+<ul class="sub-menu">
+	<li id="menu-item-633" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-633"><a href="http://www.literaturatlas.eu/project/project-frame/">Projektrahmen</a>
+	<ul class="sub-menu">
+		<li id="menu-item-88" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-88"><a href="http://www.literaturatlas.eu/project/project-frame/motivation/">Motivation</a></li>
+		<li id="menu-item-90" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90"><a href="http://www.literaturatlas.eu/project/project-frame/project-outline/">Projektbeschreibung</a></li>
+		<li id="menu-item-84" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-84"><a href="http://www.literaturatlas.eu/project/project-frame/interdisciplinary-work/">Interdisziplinäre Zusammenarbeit</a></li>
+		<li id="menu-item-1691" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1691"><a href="http://www.literaturatlas.eu/project/project-frame/kritik/">Kritik</a></li>
+	</ul>
+</li>
+	<li id="menu-item-634" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-634"><a href="http://www.literaturatlas.eu/project/project-structure/">Projektstruktur</a>
+	<ul class="sub-menu">
+		<li id="menu-item-87" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-87"><a href="http://www.literaturatlas.eu/project/project-structure/model-region/">Modellregionen</a></li>
+		<li id="menu-item-95" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95"><a href="http://www.literaturatlas.eu/project/project-structure/text-selection/">Textauswahl</a></li>
+		<li id="menu-item-641" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-641"><a href="http://www.literaturatlas.eu/project/project-structure/data-model/">Datenmodell</a></li>
+		<li id="menu-item-76" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-76"><a href="http://www.literaturatlas.eu/project/project-structure/data-acquisition/">Datenerfassung</a></li>
+		<li id="menu-item-77" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-77"><a href="http://www.literaturatlas.eu/project/project-structure/single-object-maps/">Einzelobjektkarten</a></li>
+		<li id="menu-item-93" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-93"><a href="http://www.literaturatlas.eu/project/project-structure/statistical-surfaces/">Statistische Oberflächen</a></li>
+		<li id="menu-item-642" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-642"><a href="http://www.literaturatlas.eu/project/project-structure/map-comment/">Kartenkommentar</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-96" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-96"><a href="http://www.literaturatlas.eu/currentresearch/">AKTUELLE FORSCHUNG</a>
+<ul class="sub-menu">
+	<li id="menu-item-252" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-252"><a href="http://www.literaturatlas.eu/currentresearch/readings/">Lektüren</a></li>
+	<li id="menu-item-905" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-905"><a href="http://www.literaturatlas.eu/currentresearch/visualisation/">Visualisierungen</a></li>
+</ul>
+</li>
+<li id="menu-item-248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-248"><a href="http://www.literaturatlas.eu/publications/">PUBLIKATIONEN</a></li>
+<li id="menu-item-296" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-296"><a href="http://www.literaturatlas.eu/forschungsmaterial/">MATERIAL</a>
+<ul class="sub-menu">
+	<li id="menu-item-79" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-79"><a href="http://www.literaturatlas.eu/forschungsmaterial/research-history/">Forschungsgeschichte</a></li>
+	<li id="menu-item-75" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="http://www.literaturatlas.eu/forschungsmaterial/bibliography/">Bibliographie</a></li>
+	<li id="menu-item-82" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-39 current_page_item menu-item-82"><a href="http://www.literaturatlas.eu/forschungsmaterial/glossary/">Glossar</a></li>
+	<li id="menu-item-86" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86"><a href="http://www.literaturatlas.eu/forschungsmaterial/link-to-other-projects/">Links zu anderen Projekten</a></li>
+</ul>
+</li>
+<li id="menu-item-80" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80"><a href="http://www.literaturatlas.eu/research-team/">FORSCHUNGSGRUPPE</a></li>
+<li id="menu-item-300" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-300"><a href="http://www.literaturatlas.eu/press/">PRESSE</a></li>
+<li id="menu-item-2022" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2022"><a href="http://www.literaturatlas.eu/guestbook/">GÄSTEBUCH</a></li>
+<li id="menu-item-83" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-83"><a href="http://www.literaturatlas.eu/imprint/">IMPRESSUM</a></li>
+</ul></div>    </div>
+    
+    <div style="clear:both;"></div>
+<div id="container">
+
+	<div id="featureimg"></div>
+
+	<div id="content" class="wide">
+    
+        <div class="postarea">
+    
+                        
+            <h2 class="title_page">Glossar</h2>
+            
+            <p><span style="font-size: 16px">Das folgende <strong>»Kleine ABC der Literaturgeographie und Literaturkartographie«</strong> enthält theoretische Begriffe und Definitionen.  </span><span style="font-size: 16px;color: #008000"><strong>GRÜN</strong> gekennzeichnet sind alle jene Kategorien, Begriffe und Attribute, die wir selber geprägt haben bzw. die Bestandteil des </span><span style="color: #008000"><strong><span style="font-size: 16px"><a title="Datenerfassung" href="http://www.literaturatlas.eu/project/project-structure/data-acquisition/"><span style="color: #008000">Dateneingabeformulars</span></a></span></strong></span><span style="font-size: 16px;color: #008000"> im Projekt »Ein literarischer Atlas Europas« sind.</span></p>
+<h2>A</h2>
+<p style="padding-left: 30px"><span style="color: #008000"><strong>ALLEGORISCH-SYMBOLISCH KONNOTIERT:</strong></span> Trifft auf <strong><a title="Glossar" href="http://www.literaturatlas.eu/forschungsmaterial/glossary/#Schauplatz">Schauplätze</a></strong> und <strong><a title="Glossar" href="http://www.literaturatlas.eu/forschungsmaterial/glossary/#Projiziert">projizierte Räume</a></strong> zu. Eingetragen wird dieses Attribut nur, wenn explizite, textimmanente Hinweise auf eine solche Bedeutungsschicht zu finden sind. Auf eigene Interpretationen wird weitgehend verzichtet.</p>
+<p>&nbsp;</p>
+<h2>B</h2>
+<h2>C</h2>
+<h2>D</h2>
+<p style="padding-left: 30px"><strong>DRITTRAUM: </strong>ursprünglich “Thirdspace”, vom Humangeographen Edward W. Soja geprägter Begriff (siehe <span style="color: #008000"><strong><a title="Bibliographie" href="http://www.literaturatlas.eu/forschungsmaterial/bibliography/"><span style="color: #008000">Bibliographie</span></a></strong></span>: Soja 1996). Soja versteht unter Thirdspace eine Vermengung von „real-and-imagined“, es handelt sich um hybride Räume, die zugleich fiktional und real sind. Eines von Sojas Beispielen, das er eingehend analysiert, ist Los Angeles.</p>
+<p>&nbsp;</p>
+<h2>E</h2>
+<p style="padding-left: 30px"><span style="color: #008000"><strong>EINFACH-KULISSENHAFT</strong>:</span> Die Kulisse (der <strong><a title="Glossar" href="http://www.literaturatlas.eu/forschungsmaterial/glossary/#Schauplatz">Schauplatz</a></strong>, der<strong> <a href="http://www.literaturatlas.eu/forschungsmaterial/glossary/#Projiziert">projizierte Raum</a></strong>) wäre theoretisch austauschbar, der Raum ist buchstäblicher Hintergrund und nicht tragender Bestandteil der erzählten Welt.</p>
+<p style="padding-left: 30px"><a name="Erstraum"></a><strong>ERSTRAUM:</strong> physisch-empirischer Raum mit messbaren Relationen zwischen einzelnen Punkten (nach Soja 1996, siehe <span style="color: #008000"><strong><a title="Bibliographie" href="http://www.literaturatlas.eu/forschungsmaterial/bibliography/"><span style="color: #008000">Bibliographie</span></a></strong></span>); entspricht dem <a href="#Georaum"><strong>Georaum</strong></a>.</p>
+<p>&nbsp;</p>
+<h2>F</h2>
+<p style="padding-left: 30px"><a name="Figurenraum"></a><strong> FIGURENRAUM:</strong> Teilbereich des <a href="#Handlungsraum"><strong>Handlungsraums</strong></a> (Oberbegriff); strukturiert in <a href="#Handlungszone"><strong>Handlungszonen</strong></a> und <a href="#Schauplatz"><strong>Schauplätze</strong></a>.</p>
+<p style="padding-left: 30px"><strong><span style="color: #008000">FINGIERT </span></strong> (betrifft: Schauplätze, projizierte Räume): Handlungsraum, der keinerlei Referenzen auf den <a href="#Georaum"><strong>Georaum</strong></a> aufweist; entspricht einem <a href="#Fiktion"><strong>Raum der Fiktion</strong></a>.</p>
+<p style="padding-left: 30px"><a name="Fiktion"></a><strong><span style="color: #008000">FIKTIONALER RAUM:</span></strong> Der in einem fiktionalen Text (durch blosse Wörter) geschaffene, konstruierte Raum. Der fiktionale Raum ist eine vom Text her gedachte Kategorie. Im Unterschied dazu ist der <strong><a title="Glossar" href="http://www.literaturatlas.eu/forschungsmaterial/glossary/#Raum, fiktionalisierter">fiktionalisierte Raum</a></strong> aus der Perspektive des <strong><a title="Glossar" href="http://www.literaturatlas.eu/forschungsmaterial/glossary/#Erstraum">Erstraums</a>/<a title="Glossar" href="http://www.literaturatlas.eu/forschungsmaterial/glossary/#Georaum">Georaums</a></strong> definiert: Was macht die Literatur mit einem gegebenen, georäumlichen Ausschnitt?</p>
+<p>&nbsp;</p>
+<h2>G</h2>
+<p style="padding-left: 30px"><a name="Horizont"></a><strong>GEOGRAPHISCHER HORIZONT</strong> umfasst den <a href="#Figurenraum"><strong>Figurenraum</strong></a> samt <a href="#Handlungszone"><strong>Handlungszonen</strong></a> und <a href="#Schauplatz"><strong>Schauplätzen</strong></a> sowie die Kategorie der <a href="#Marker"><strong>topographischen Marker</strong></a>; er ist eine Komponente des <a href="#Handlungsraum"><strong>Handlungsraums</strong></a> (Oberbegriff).</p>
+<p style="padding-left: 30px"><a name="Geokritik"></a><strong>GEOKRITIK</strong> ist ein Begriff, der durch den französischen Komparatisten Bertrand Westphal eingeführt worden ist – erstmals 2000, dann grundlegend in seinem Buch <em>La Géocritique. Réel, Fiction, Espace</em> (2007), siehe <a title="Bibliographie" href="http://www.literaturatlas.eu/forschungsmaterial/bibliography/"><strong><span style="color: #008000">Bibliographie</span></strong></a>. Westphal definiert seine Geokritik als Methode, die das Verhältnis von Literatur und geographischem Raum untersucht. Die ausdrückliche Bezugnahme auf den geographischen Raum ist dabei zentral. Geokritische Studien im Sinne Westphals bedeuten, dass eine einzelne Stadt, eine Region untersucht wird, unter Berücksichtigung einer möglichst grossen Zahl literarischer Zeugnisse. Geokritik, <a href="#Geopoetik"><strong>Geopoetik</strong></a> und <a href="#Literaturgeographie"><strong>Literaturgeographie</strong></a> weisen zahlreiche inhaltliche Parallen auf.</p>
+<p style="padding-left: 30px"><a name="Geopoetik"></a><strong>GEOPOETIK</strong> wurde als Ausdruck von Kenneth White geprägt (siehe <strong><span style="color: #008000"><a title="Bibliographie" href="http://www.literaturatlas.eu/forschungsmaterial/bibliography/"><span style="color: #008000">Bibliographie</span></a></span></strong>: White 2007) und zunächst auf die dichterische Produktion bezogen. Jüngst hat der Begriff eine Umbesetzung erfahren, die ihn auch für die literaturwissenschaftliche Forschung tauglich macht. Es geht um die Analyse von in der Literatur hergestellten Landschaften und Territorien, um Raumpoetiken, die “semantisch aufgeladen und an bestimmte Orte, Landschaften und Territorien gekoppelt werden.“ (siehe <strong><span style="color: #008000"><a title="Bibliographie" href="http://www.literaturatlas.eu/forschungsmaterial/bibliography/"><span style="color: #008000">Bibliographie</span></a></span></strong>: Marzalek/Sasse 2010). Geopoetik, <a href="#Geokritik"><strong>Geokritik</strong></a> und <a href="#Literaturgeographie"><strong>Literaturgeographie</strong></a> weisen zahlreiche inhaltliche Parallelen auf.</p>
+<p style="padding-left: 30px"><a name="Georaum"></a><strong>GEORAUM</strong> geographischer Fachbegriff: physischer Raum, geographisch und morphologisch beschreibbar; entspricht dem <a href="#Erstraum"><strong>Erstraum</strong></a>.</p>
+<p>&nbsp;</p>
+<h2>H</h2>
+<p style="padding-left: 30px"><a name="Handlungsraum"></a><strong>HANDLUNGSRAUM: </strong> erzähltheoretischer Oberbegriff für <a href="#Horizont"><strong>geographischen Horizont</strong></a>, <a href="#Figurenraum"><strong>Figurenraum</strong></a>, <a href="#Handlungszone"><strong>Handlungszonen</strong></a> und <a href="#Schauplatz"><strong>Schauplätze</strong></a>.</p>
+<p style="padding-left: 30px"><a name="Handlungszone"></a><strong>HANDLUNGSZONE: </strong> Gebiet innerhalb des <a href="#Handlungsraum"><strong>Handlungsraums</strong></a>, kann mehrere <a href="#Schauplatz"><strong>Schauplätze</strong></a> umfassen (das Zusammenfassen von Schauplätzen zu einer Handlungszone ist eine Interpretationsleistung, dieses räumliche Strukturelement ist im Text nicht vorgegeben).</p>
+<p style="padding-left: 30px"><a name="Hyperraum"></a><strong>HYPERRAUM: </strong> von mehreren <a href="#Textraum"><strong>Texträumen</strong></a> konstituierter Raum (nach Ungern-Sternberg 2003, siehe <span style="color: #008000"><strong><a title="Bibliographie" href="http://www.literaturatlas.eu/forschungsmaterial/bibliography/"><span style="color: #008000">Bibliographie</span></a></strong></span>); spezifische (weil rein literarische) Ausformung des <a href="#Zweitraum"><strong>Zweitraums</strong></a>.</p>
+<p>&nbsp;</p>
+<h2>I</h2>
+<p style="padding-left: 30px"><span style="color: #008000"><strong>IMPORTIERT</strong></span> (Schauplätze, projizierte Räume): Der <a href="#Georaum"><strong>Georaum</strong></a> wird topographisch und toponymisch korrekt wiedergegeben.</p>
+<p>&nbsp;</p>
+<h2>J</h2>
+<h2>K</h2>
+<h2>L</h2>
+<p style="padding-left: 30px"><span style="color: #008000"><strong>LAGE</strong></span> (<strong><a title="Glossar" href="http://www.literaturatlas.eu/forschungsmaterial/glossary/#Schauplatz">Schauplätze</a></strong>, <a title="Glossar" href="http://www.literaturatlas.eu/forschungsmaterial/glossary/#Projiziert"><strong>projizierte Räume</strong></a>): Verzeichnet wird der Genauigkeitsgrad in drei Stufen:</p>
+<p style="padding-left: 60px"><span style="color: #008000"><strong>PRÄZISE:</strong></span> Ein Dorf, eine Stadt, eine Region, ein Land lässt sich genau auf der Karte finden und eintragen.</p>
+<p style="padding-left: 60px"><span style="color: #008000"><strong>ZONAL:</strong></span> Durch Ausschlussverfahren lässt sich eine bestimmte Zone ermitteln, in der der <a href="#Schauplatz"><strong>Schauplatz</strong></a> sich aller Wahrscheinlichkeit nach befindet.</p>
+<p style="padding-left: 60px"><span style="color: #008000"><strong>UNBESTIMMT:</strong></span> Es gibt keinerlei Aufschluss über die Lage des <a title="Glossar" href="http://www.literaturatlas.eu/forschungsmaterial/glossary/#Schauplatz"><strong>Schauplatzes</strong></a>, er liegt »irgendwo«. In diesem Fall ist folgerichtig auf eine Eingabe im Koordinatenfeld zu verzichten (Bsp. das »Land of Oz« aus dem Märchenbuch <em>The Wonderful wizard of Oz</em> (1900), das als vollkommen autonome Geographie existiert, ohne jegliche Anbindung an eine reale Welt).</p>
+<p style="padding-left: 30px"><span style="color: #008000"><strong>LANDSCHAFT, ASSOZIATIVE: </strong></span> Ausschnitt aus dem <a href="#Georaum"><strong>Georaum</strong></a>; stellt sich eher in geistigen Bezügen aus Religion, Kunst oder Literatur als in materiellen Bestandteilen dar (gemäss UNESCO-Definition, siehe <a title="Bibliographie" href="http://www.literaturatlas.eu/forschungsmaterial/bibliography/"><strong><span style="color: #008000">Bibliographie</span></strong></a>: UNESCO 2009: 285).</p>
+<p style="padding-left: 30px"><span style="color: #008000"><strong>LESERRAUM: </strong></span> rezeptionsästhetische Kategorie: enthält die geographische und topographische Enzyklopädie des Lesers.</p>
+<p style="padding-left: 30px"><a name="Literaturgeographie"></a><span style="color: #000000"><strong>LITERATURGEOGRAPHIE:</strong></span> Oberbegriff, der den Untersuchungsgegenstand bezeichnet: Analysiert wird die spezifische Geographie der Literatur als Teilaspekt der räumlichen Dimension von Literatur überhaupt. Die zentralen Fragen lauten: Wo spielt die Literatur und weshalb spielt sie (gerade) dort? Literaturgeographische Untersuchungen können mit oder ohne Karten ausgeführt werden. Der methodische Ansatz über Karten (<a href="#Literaturkartographie"><strong>Literaturkartographie</strong></a>) ist eine von vielen Möglichkeiten.</p>
+<p style="padding-left: 30px"><a name="Literaturkartographie"></a><span style="color: #000000"><strong>LITERATURKARTOGRAPHIE: </strong></span> Bezeichnung einer Methode – im Rahmen einer <a href="#Literaturgeographie"><strong>literaturgeographischen</strong></a> Untersuchung werden Karten erstellt, die im Idealfall einen Mehrwert an Erkenntnis generieren.</p>
+<p>&nbsp;</p>
+<h2>M</h2>
+<p style="padding-left: 30px"><span style="color: #008000"><a name="Marker"></a><strong>MARKER, TOPOGRAPHISCHER:</strong></span> bloss erwähnter Raum, Ort; ohne dortigen Aufenthalt der handelnden Figuren, d. h. nicht im Status eines <strong>Schauplatzes</strong> oder eines <a title="Glossar" href="http://www.literaturatlas.eu/forschungsmaterial/glossary/#Projiziert"><strong>projizierten Raums</strong></a>. Es wird unterschieden zwischen Markern innerhalb und ausserhalb der Modellregion.</p>
+<p style="padding-left: 30px"><span style="color: #000000"><strong>METARAUM, LITERARISCHER:</strong></span> aus mehreren <a href="#Textraum"><strong>Texträumen</strong></a> bestehender Raum; entspricht dem <a href="#Hyperraum"><strong>Hyperraum</strong></a>; ist eine spezifische (weil rein literarische) Ausformung des <a href="#Zweitraum"><strong>Zweitraums</strong></a>.</p>
+<p style="padding-left: 30px"><span style="color: #008000"><strong>MYTHISCH KONNOTIERT</strong></span> (Schauplätze, projizierte Räume): Verzeichnet werden explizite mythische Anspielungen. Beispiele: Aus den drei <span style="color: #008000"><strong><a title="Modellregionen" href="http://www.literaturatlas.eu/project/project-structure/model-region/"><span style="color: #008000">Modellregionen</span></a></strong></span> des &#8220;Literarischen Atlas Europas&#8221; &#8211; das Rütli, der Vishehrad, die Insel Rungholt.</p>
+<h2>N</h2>
+<h2>O</h2>
+<h2>P</h2>
+<p style="padding-left: 30px"><span style="color: #008000"><a name="Projiziert"></a><strong>PROJIZIERTER RAUM/WEG:</strong></span> Raum auf der Ebene des <a href="#Horizont"><strong>geographischen Horizonts</strong></a>; wird von den Figuren nicht &gt;betreten&lt; im Laufe der Handlung (Unterkategorien: Traumorte, Sehnsuchtsorte, erinnerte Orte, evozierte Orte).</p>
+<p style="padding-left: 30px"><span style="color: #008000"><strong>PROTAGONISTISCH-PHYSISCH</strong></span> (<strong><a title="Glossar" href="http://www.literaturatlas.eu/forschungsmaterial/glossary/#Schauplatz">Schauplätze</a></strong>, <strong><a title="Glossar" href="http://www.literaturatlas.eu/forschungsmaterial/glossary/#Projiziert">projizierte Räume</a></strong>): Der Raum greift selber buchstäblich in die Handlung ein, in der Regel in Form von Naturereignissen und -katastrophen, wie Überschwemmungen, Erdrutsche, Lawinen etc.</p>
+<p style="padding-left: 30px"><span style="color: #008000"><strong>PROTAGONISTISCH-POETOLOGISCH</strong></span> (<strong><a title="Glossar" href="http://www.literaturatlas.eu/forschungsmaterial/glossary/#Schauplatz">Schauplätze</a></strong>, <strong><a title="Glossar" href="http://www.literaturatlas.eu/forschungsmaterial/glossary/#Projiziert">projizierte Räume</a></strong>): Der Schauplatz hat Einfluss auf die Psyche der Figuren, etwa indem er das Gefühl des Gefangenseins, des Bedrohtseins hervorruft (typisch für einen Stadtraum). Auch positive Gefühle sind denkbar (Gefühle der Freiheit o.ä.).</p>
+<h2>R</h2>
+<p style="padding-left: 30px"><strong>RAUM, FIKTIONALISIERTER </strong>(Unterbegriff von <a title="Glossar" href="http://www.literaturatlas.eu/forschungsmaterial/glossary/raum,literarisierter"><span style="color: #008000"><strong><span style="color: #008000">Raum, literarisierter</span></strong></span></a>)<strong>:</strong> Ausschnitt aus dem <a href="#Georaum"><strong>Georaum</strong></a>, wird in einem  fiktionalen Text zum <a href="#Handlungsraum"><strong> Handlungsraum</strong></a> modelliert.</p>
+<p style="padding-left: 30px"><strong>RAUM, LITERARISIERTER:</strong> Ausschnitt aus dem <a href="#Georaum"><strong>Georaum</strong></a>, zum Gegenstand der Literatur geworden (in sämtlichen Genres).</p>
+<p style="padding-left: 30px"><a name="Fiktion"></a><strong>RAUM DER FIKTION:</strong> Handlungsraum ohne jegliche Referenzen auf den <a href="#Georaum"><strong>Georaum</strong></a> hin; entspricht einem <a href="#Handlungsraum"><strong>fingierten Handlungsraum</strong></a>.</p>
+<p style="padding-left: 30px"><a name="IReferentialisierung"></a><span style="color: #008000"><strong>REFERENTIALISIERUNG, INDIREKTE:</strong></span> eine geographische Einheit (Stadt, Dorf, Region, Fluss, See, Meer, Berg, Tal etc.) wird nicht mit dem entsprechenden Toponym benannt, sondern be- und umschrieben. Über typische Einzelelemente (z. B. Seine, Eiffelturm = Paris) lässt sich die grössere Einheit bestimmen.</p>
+<h2>S</h2>
+<p style="padding-left: 30px"><span style="color: #008000"><a name="Schauplatz"></a><strong>SCHAUPLATZ:</strong></span> kleinste Einheit des <a href="#Handlungsraum"> <strong>Handlungsraums</strong></a>. Mehrere Schauplätze können – auf Grundlage einer Interpretation – zu einer <a href="#Handlungszone"><strong>Handlungszone</strong></a> zusammengefasst werden.</p>
+<p style="padding-left: 30px"><span style="color: #008000"><strong>SYNTHETISIERT</strong></span> (<strong><a title="Glossar" href="http://www.literaturatlas.eu/forschungsmaterial/glossary/#Schauplatz">Schauplätze</a></strong>, <strong><a title="Glossar" href="http://www.literaturatlas.eu/forschungsmaterial/glossary/#Projiziert">projizierte Räume</a></strong>): In der Fiktion werden zwei bestehende Räume überblendet, so dass ein neuer, dritter Raum entsteht. Beispiel: In Ernst Jüngers Roman »Auf den Marmorklippen« (1939) werden Bodenseeregion und Mittelmeerküste synthetisiert, in Julio Cortazars Erzählung &#8220;Das Feuer aller Feuer&#8221; (1966) sind es Buenos Aires und Paris, die ineinander geblendet werden.</p>
+<h2>T</h2>
+<p style="padding-left: 30px"><span style="color: #008000"><strong>THEMATISCH-KULISSENHAFT</strong></span> (<strong><a title="Glossar" href="http://www.literaturatlas.eu/forschungsmaterial/glossary/#Schauplatz">Schauplätze</a>, <a title="Glossar" href="http://www.literaturatlas.eu/forschungsmaterial/glossary/#Projiziert">projizierte Räume)</a></strong>: Der Raum wird plastisch geschildert, ist wesentliches Element der Handlung, u. a. spielen Komponenten wie Landschaftsschilderung, Architekturschilderung, Atmosphäre eine Rolle. Der Schauplatz verliert an Austauschbarkeit.</p>
+<p style="padding-left: 30px"><a name="Textraum"></a><span style="color: #008000"><strong>TEXTRAUM</strong></span>: medial vermittelter Raum, d.h. mit Hilfe sprachlicher Zeichen erzeugt; dies betrifft <strong><a title="Glossar" href="http://www.literaturatlas.eu/forschungsmaterial/glossary/#Handlungsraum">Handlungsräume</a></strong>, aber auch rein deskriptiv evozierte Räume, etwa in Gedichten.</p>
+<p style="padding-left: 30px"><span style="color: #008000"><strong>TOPONYMIE: </strong></span> Die Beschriftung von Orten, Gewässern, Bergen etc. auf einer Landkarte. Unterschieden werden für die Beschriftung von <strong><a title="Glossar" href="http://www.literaturatlas.eu/forschungsmaterial/glossary/#Schauplatz">Schauplätzen </a></strong>und <a title="Glossar" href="http://www.literaturatlas.eu/forschungsmaterial/glossary/#Projiziert"><strong>projizierten Räumen</strong></a> im &#8220;Literarischen Atlas Europas&#8221; folgende Unterkategorien:</p>
+<p style="padding-left: 60px"><span style="color: #008000"><strong>AKTUELL-REALREFERENT:</strong></span> Das auf aktuellen Landkarten/Stadtplänen verzeichnete Toponym</p>
+<p style="padding-left: 60px"><span style="color: #008000"><strong>FREMDSPRACHLICH (REALREFERENT):</strong></span> Eine wie auch immer geartete Differenz zur heutigen Amtssprache (in mehrsprachigen Modellregionen besonders heikel, dennoch gilt bis auf weiteres die Regelung, dass deutsche Texte in Prag bzw. dänische Texte in Nordfriesland als »anderssprachlich« eingetragen werden)</p>
+<p style="padding-left: 60px"><span style="color: #008000"><strong>HISTORISCH (REALREFERENT):</strong></span> Ein früher geläufiges Toponym.</p>
+<p style="padding-left: 60px"><span style="color: #008000"><strong>NEU ERFUNDEN:</strong></span> Benennung einer neu erfundenen Lokalität durch den Autor, Bsp. Das Städtchen Seldwyla bei Gottfried Keller.</p>
+<p style="padding-left: 60px"><span style="color: #008000"><strong>UMBENANNT/VERSCHLEIERT:</strong></span> Eine existierende Lokalität wird umbenannt (Bsp. New York wird zu »Gotham City«) oder im Namenlosen belassen (z. B. mit »die Stadt« ist bei Theodor Storm zumeist Husum gemeint).</p>
+<p style="padding-left: 60px"><span style="color: #008000"><strong>UMSCHRIEBEN/NAMENLOS:</strong></span> Namenlos = die Stadt, das Dorf, das Schloss; umschrieben werden Schauplätze oft mit einem Genitiv: »das Haus der Geliebten«, »die Hütte meines Grossvaters« etc.</p>
+<p style="padding-left: 60px"><span style="color: #008000"><strong>VERSCHWUNDEN:</strong></span> Nicht mehr existente Orte, etwa Häuser und Strassen im assanierten Prager Stadtteil Josefov oder die untergegangene Insel Rungholt in Nordfriesland.</p>
+<p style="padding-left: 60px"><span style="color: #008000"><strong>ZUSAMMENGEFASST:</strong></span> Mehrere <a title="Glossar" href="http://www.literaturatlas.eu/forschungsmaterial/glossary/#Schauplatz"><strong>Schauplätze</strong></a>, <a title="Glossar" href="http://www.literaturatlas.eu/forschungsmaterial/glossary/#Projiziert"><strong>projizierte Räume</strong></a> werden zu einer <a title="Glossar" href="http://www.literaturatlas.eu/forschungsmaterial/glossary/#Handlungszone"><strong>Handlungszone</strong></a> zusammengefasst und neu beschriftet (Akt der Interpretation).</p>
+<p style="padding-left: 30px"><span style="color: #008000"><strong>TRANSFORMIERT</strong></span>(<a title="Glossar" href="http://www.literaturatlas.eu/forschungsmaterial/glossary/#Schauplatz"><strong>Schauplätze</strong></a>, <a title="Glossar" href="http://www.literaturatlas.eu/forschungsmaterial/glossary/#Projiziert"><strong>projizierte Räume</strong></a>): Abweichungen vom <a href="#Georaum"><strong>Georaum</strong></a>. Der Schauplatz wird transformiert – dazu gehören die literarischen Techniken von Re-Modellierung, Umbenennung, Neu-Lokalisierung, <a title="Glossar" href="http://www.literaturatlas.eu/forschungsmaterial/glossary/#Synthetisiert"><strong>Synthese</strong></a> mehrerer Raumeinheiten.</p>
+<p style="padding-left: 30px"><span style="color: #008000"><strong>VERSCHOBEN</strong></span> (<a title="Glossar" href="http://www.literaturatlas.eu/forschungsmaterial/glossary/#Schauplatz"><strong>Schauplätze</strong></a>, <a title="Glossar" href="http://www.literaturatlas.eu/forschungsmaterial/glossary/#Projiziert"><strong>projizierte Räume</strong></a>): Ein existierender Ort wird in der Fiktion an einen neuen Standort, in einen neuen geographischen Kontext verschoben.</p>
+<p>&nbsp;</p>
+<h2>U</h2>
+<h2>V</h2>
+<h2>W</h2>
+<p style="padding-left: 30px"><span style="color: #008000"><a name="Weg"></a><strong>WEGE, ROUTEN,</strong></span> über die sich die handelnden Figuren durch den fiktionalen Raum bewegen.</p>
+<p style="padding-left: 30px"><span style="color: #008000"><strong>WEGPUNKTE</strong></span> werden während der <span style="color: #008000"><strong><a title="Datenerfassung" href="http://www.literaturatlas.eu/project/project-structure/data-acquisition/"><span style="color: #008000">Dateneingabe</span></a></strong></span> erfasst, um den Verlauf eines Figurenweges schematisch oder präziser zu erfassen:</p>
+<p style="padding-left: 60px"><span style="color: #008000"><strong>SCHEMATISIERT:</strong></span> übernommen werden nur diejenigen Stationen, die im Text explizit erwähnt und benannt sind. Das kartographische Resultat ähnelt häufig einer stark schematisierten Flugroute.</p>
+<p style="padding-left: 60px"><span style="color: #008000"><strong>PLAUSIBILISIERT:</strong></span> die schematische Route wird ergänzt um »Stützpunkte«, die den Wegverlauf plausibler gestalten. Eine Schiffsreise etwa kann sinnvoll auf dem Wasser (Fluss, See, Meer) dargestellt werden; im schematischen Modus mag sie manchmal über Land führen. <span style="color: #008000"><strong>INTERPRETIERT:</strong></span> hier werden <a href="#IReferentialisierung"><strong>indirekte Referentialisierungen</strong></a> von Wegstationen aufgelöst und in die Interpretation mit einbezogen.</p>
+<h2>X</h2>
+<h2>Y</h2>
+<h2>Z</h2>
+<p style="padding-left: 30px"><a name="Zweitraum"></a><strong>ZWEITRAUM:</strong> enthält ideelle, imaginative Repräsentationen des <a href="#Erstraum"><strong>Erstraums</strong></a>, z. B. in Literatur und Bildender Kunst (nach Soja 1996, siehe <strong><span style="color: #008000"><a title="Bibliographie" href="http://www.literaturatlas.eu/forschungsmaterial/bibliography/"><span style="color: #008000">Bibliographie</span></a></span>).</strong></p>
+<p>&nbsp;</p>
+            
+                        <div class="social_links">
+                <!-- 
+                     <div class="tweet_btn">
+                    <a href="http://twitter.com/share" class="twitter-share-button"
+                    data-url="http://www.literaturatlas.eu/forschungsmaterial/glossary/"
+                    data-via=""
+                    data-text="Glossar"
+                    data-related=""
+                    data-count="horizontal">Tweet</a>
+               
+                </div>
+                  -->
+                
+                <div class="like_btn">
+                    <!-- <fb:like href="http%3A%2F%2Fwww.literaturatlas.eu%2Fforschungsmaterial%2Fglossary%2F" layout="button_count" show_faces="false" width="100" font=""></fb:like> -->
+                </div>
+                <div class="plus_btn">
+                	<!-- <g:plusone size="medium"></g:plusone> -->
+                </div>
+            </div>
+                        
+            <div style="clear:both;"></div>
+			            
+                        
+        </div>
+    
+        <!-- <div class="postcomments">
+			        </div> -->
+
+	</div>
+			
+</div>
+
+<!-- added by anneka 
+source: http://www.wpbeginner.com/wp-tutorials/how-to-add-pinterest-pin-it-button-in-your-wordpress-blog/-->
+
+<script type="text/javascript">
+(function() {
+    window.PinIt = window.PinIt || { loaded:false };
+    if (window.PinIt.loaded) return;
+    window.PinIt.loaded = true;
+    function async_load(){
+        var s = document.createElement("script");
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "http://assets.pinterest.com/js/pinit.js";
+        var x = document.getElementsByTagName("script")[0];
+        x.parentNode.insertBefore(s, x);
+    }
+    if (window.attachEvent)
+        window.attachEvent("onload", async_load);
+    else
+        window.addEventListener("load", async_load, false);
+})();
+</script>
+<!-- end -->
+
+<!-- added by osm 15.03.2012 Google Analytics with anonymized IP-adress /-->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-30072715-1']);
+ // _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_setDomainName', 'literaturatlas.eu']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!-- end --> 
+
+
+<div style="clear:both;"></div>
+
+<div id="footertopbg">
+
+    <div id="footerwidgets">
+        
+            <div class="footerwidgetleft">
+				                            </div>
+            
+            <div class="footerwidgetmidleft">
+				                            </div>
+            
+            <div class="footerwidgetmidright">
+				                            </div>
+            
+            <div class="footerwidgetright">
+				                            </div>
+            
+    </div>
+
+</div>
+
+<div id="footerbg">
+
+	<div id="footer">
+    
+    	<div class="footerleft">
+            <div class="footertop">
+                <p>Copyright 2018 Ein Literarischer Atlas Europas &middot; <a href="http://www.literaturatlas.eu/feed/rss/" target="_blank">RSS Feed</a> &middot; <a href="http://www.literaturatlas.eu/wp-login.php">Anmelden</a></p>
+            </div>
+            
+            <div class="footerbottom">
+                <p>Forschungsprojekt <a href="http://www.ethz.ch/" target="_blank">ETH Zurich</a>, <a href="http://www.karto.ethz.ch/" target="_blank">Institut für Kartografie und Geoinformation</a></p>
+            </div>
+        </div>
+        
+        <div class="footerright">
+    		<a href="http://www.literaturatlas.eu" target="_blank"><img src="http://www.literaturatlas.eu/wp-content/themes/organic_structure01/images/footer_logo.png " alt="Literarischer Atlas Europas" /></a>
+    	</div>
+		
+	</div>
+	
+</div>
+
+</div>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"N\u00e4chste >","prev":"< Vorherige","image":"Bild","of":"von","close":"Schlie\u00dfen","noiframes":"Diese Funktion ben\u00f6tigt iframes. Du hast jedoch iframes deaktiviert oder dein Browser unterst\u00fctzt diese nicht.","loadingAnimation":"http:\/\/www.literaturatlas.eu\/wp-includes\/js\/thickbox\/loadingAnimation.gif","closeImage":"http:\/\/www.literaturatlas.eu\/wp-includes\/js\/thickbox\/tb-close.png"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.literaturatlas.eu/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105'></script>
+<script type='text/javascript' src='http://latlas.ikgserve.ch/wp-content/plugins/easy-fancybox/fancybox/jquery.fancybox-1.3.6.pack.js?ver=1.5.6'></script>
+<script type='text/javascript' src='http://latlas.ikgserve.ch/wp-content/plugins/easy-fancybox/jquery.easing.pack.js?ver=1.3'></script>
+<script type='text/javascript' src='http://latlas.ikgserve.ch/wp-content/plugins/easy-fancybox/jquery.mousewheel.pack.js?ver=3.1.3'></script>
+
+<script type="text/javascript">
+jQuery(document).on('ready post-load', easy_fancybox_handler );
+</script>
+
+</body>
+</html>
+
