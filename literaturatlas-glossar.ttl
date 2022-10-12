@@ -14,7 +14,6 @@
    # dc:description ""@de ;
    dc:creator "Barbara Piatti" ;
    dc:creator "literaturatlas.eu" ;
-   dc:publisher "literaturatlas.eu" ;
    dc:publisher "ACDH – Austrian Centre for Digital Humanities" ;
    dc:contributor "Ingo Boerner (SKOS)" ;
    dc:language "German" ;
